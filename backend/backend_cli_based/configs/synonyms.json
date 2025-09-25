@@ -1,0 +1,970 @@
+{
+  "BND–FUNCTION–PURPOSE": {
+    "synonyms": ["function", "ladder", "junior pipeline", "entry-level", "associate", "skills-based hiring", "boundary"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": ["BND–WHAT-IT-DOES"],
+    "page_hint": 1
+  },
+  "BND–WHAT-IT-DOES-PRINCIPLE:": {
+    "synonyms": ["planning", "personalized plan", "execution", "skill mapping", "learner preferences", "strategic learning", "tailored learning", "adaptive learning", "customized study path", "knowledge acquisition methods"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 1
+  },
+  "BND–WHAT-IT-DOES–VALUE-PREP:": {
+    "synonyms": ["personalized strategy", "plan-first approach", "intelligence development", "skill intelligence link", "brain training", "cognitive enhancement", "thinking outside the box", "smart learning", "resource-guided learning", "evidence-based strategies", "foundational intelligence", "technical intelligence", "collaborative intelligence", "problem-solving intelligence", "brain exercises", "cognitive routines"],
+    "weight": 1.15,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 1
+  },
+  "BND–WHAT-IT-DOES–GENERAL–GOAL:": {
+    "synonyms": ["shifting intelligence", "cognitive growth", "analytical abilities", "critical thinking", "problem solving", "career direction", "skill growth plan", "market positioning", "adaptive learning", "learning efficiency", "outside-the-box thinking", "IQ development", "brain structural growth", "impactful individual", "cognitive enhancement", "permanent skill development"],
+    "weight": 1.05,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 2
+  },
+  "BND–WHAT-IT-DOES–WORKS:": {
+    "synonyms": ["personalized learning impact", "context-dependent gains", "plan-first checkpoints", "brain intelligence shift", "differentiation", "high-utility study techniques", "spaced practice", "retrieval practice", "interleaving", "active learning", "evidence-based methods", "weekly cadence"],
+    "weight": 1.3,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 3
+  },
+  "BND–WHAT-IT-DOES–FLOW:": {
+    "synonyms": ["profile capture", "learner constraints", "learning preferences", "baseline assessment", "milestone design", "week-by-week goals", "evidence gates", "quizzes", "code reviews", "mini-projects", "delivery stage", "right-sized drills", "portfolio tasks", "feedback loops", "review and adapt", "performance data", "iterative improvement"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 3
+  },
+  "BND–WHAT-IT-DOES–GENERAL–SUCCESS:": {
+    "synonyms": ["success dependency", "user accountability", "execution responsibility", "performance alignment", "plan adherence", "conditional success", "implementation ownership", "personal responsibility", "outcome variability"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 3
+  },
+
+
+  "BND-SCOPE-PROBLEM": {
+    "synonyms": ["problem tuple", "role–pain mapping", "target role", "pain-point set", "boundary tuple"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": ["BND-ROLE", "BND-PP"],
+    "page_hint": 3
+  },
+  "BND-SCOPE-OVERVIEW": {
+    "synonyms": ["scope", "boundary", "junior-only tech", "early-career", "corpus limits"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 4
+  },
+  "BND-SCOPE-BOUNDARY": {
+    "synonyms": ["inclusion criteria", "exclusion criteria", "scope gate", "guardrails"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": ["BND-ROLE", "BND-PP"],
+    "page_hint": 4
+  },
+  "BND-SCOPE-ROLES-POINTER": {
+    "synonyms": ["role whitelist", "supported categories", "junior role Catalog"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": ["BND-ROLE"],
+    "page_hint": 4
+  },
+
+
+  "BND–UPA-FUNC-SUMMARY": {
+    "synonyms": ["Planning", "roadmap", "strategy", "blueprint", "design", "Goals", "objectives", "targets", "Actions", "steps", "measures", "Resources", "inputs", "assets", "User Planning Agent", "UPA", "Management function"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 5
+  },
+  "BND–UPA-FUNC-IMPORTANT": {
+    "synonyms": ["Direction", "guidance", "orientation", "Purpose", "mission", "intent", "Behaviour oriented", "user-driven", "personalised", "Evidence based", "research-driven", "theory-backed", "proven", "Decision-making", "choices", "judgement", "prioritization"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 5
+  },
+  "BND–UPA-FUNC-CRITERIA": {
+    "synonyms": ["Criteria", "standards", "rules", "conditions", "Data collection", "inputs", "evidence", "Planning effectiveness", "impact", "success", "Execution", "implementation", "process"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 5
+  },
+  "BND–UPA-FUNC-CRITERIA-ONE": {
+    "synonyms": ["UIA", "User Identification Agent", "Data transformation", "raw data → insights", "Actionable knowledge", "useful data", "practical insights", "Risk mitigation", "risk control", "problem avoidance", "Opportunity identification"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 5
+  },
+  "BND–UPA-FUNC-CRITERIA-ONE-GEN-DESCRIPTION": {
+    "synonyms": ["General insights", "baseline traits", "foundational data", "User strengths", "capabilities", "advantages", "Weaknesses", "limitations", "gaps", "Evidence based insights", "research validated", "theory guided", "Durable facts", "stable data", "long-term attributes"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 6
+  },
+  "BND–UPA-FUNC-CRITERIA-ONE-GEN-CATEGORIES": {
+    "synonyms": ["Knowledge perception", "learning belief", "knowledge model", "Mental models", "frameworks", "thought patterns", "Inductive", "examples → rules", "Deductive", "rules → applications", "Learning preferences", "styles", "habits", "Modalities", "formats", "channels", "Visual", "diagram", "graphic", "Interactive", "hands-on", "experiential", "Success definition", "goal", "benchmark", "Constraints of failure", "limitations", "risks", "Checkpoints", "milestones", "markers", "Time rhythm", "schedule", "cadence", "Energy", "focus", "stamina", "Deep-work windows", "peak focus times", "Pace tolerance", "speed preference", "workload balance", "Chunk size", "task size", "granularity", "Cognitive load", "mental effort"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 6
+  },
+  "BND–UPA-FUNC-CRITERIA-ONE-PRO-DESCRIPTION": {
+    "synonyms": ["Problem oriented insights", "contextual inputs", "task-specific data", "Skill matrix", "ability map", "competency framework", "Pain points", "challenges", "blockers", "Employment category", "job role", "career domain"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 7
+  },
+  "BND–UPA-FUNC-CRITERIA-ONE-PRO-CATEGORIES": {
+    "synonyms": ["Targeted outcome", "goal", "objective", "final result", "Employment category", "job function", "career area", "Skill matrix", "skills assessment", "ability grid", "Competencies", "capabilities", "proficiencies"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 7
+  },
+  "BND–UPA-FUNC-CRITERIA-TWO": {
+    "synonyms": ["Process friction scan", "workflow analysis", "bottleneck detection", "Best-known theories", "validated models", "established methods", "Strategies", "approaches", "tactics", "Process map", "workflow chart", "execution pathway"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 7
+  },
+  "BND–UPA-FUNC-CRITERIA-THREE": {
+    "synonyms": ["Plan fine tuning", "adjustment", "refinement", "optimization", "Verification agent", "validation agent", "monitoring system", "Feedback", "input", "review", "signals", "Suggestion engine", "recommendation engine", "advisory system"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 7
+  },
+  "BND–GIT-SUMMARY": {
+    "synonyms": ["General Insight Taxonomy", "taxonomy", "classification", "Reference", "see also", "cross-link", "Criteria description"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": ["BND–UPA-FUNC-CRITERIA-ONE-GEN-DESCRIPTION"],
+    "page_hint": 8
+  },
+
+
+  "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS–DESCRIPTION": {
+    "synonyms": ["Knowledge perception", "learning belief", "cognitive view", "Mental models", "frameworks", "thinking patterns", "Entry point", "starting mode", "learning preference", "Reasoning flow", "logic path", "inference style", "Validation", "proof", "confirmation", "Ambiguity tolerance", "uncertainty acceptance", "risk comfort"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 8
+  },
+  "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS–ENTRY_PATH": {
+    "synonyms": ["Entry path", "starting mode", "onboarding style", "Examples-first", "inductive start", "case-first", "Principles-first", "deductive start", "definition-first", "Mix both", "hybrid", "blended"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 8
+  },
+  "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS–REASONING_DIRECTION": {
+    "synonyms": ["Reasoning direction", "logic flow", "inference style", "Inductive", "bottom-up", "pattern-based", "Deductive", "top-down", "rule-based", "Flexible", "adaptive", "situational"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 9
+  },
+  "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS–VALIDATION_STANDARD": {
+    "synonyms": ["Validation standard", "proof type", "mastery criteria", "Performance", "execution", "output", "Explanation", "teaching", "articulation", "Recall", "testing", "memory", "Prediction", "forecasting", "anticipation", "External sign-off", "approval", "endorsement"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 9
+  },
+  "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS–AMBIGUITY_TOLERANCE": {
+    "synonyms": ["Ambiguity tolerance", "uncertainty comfort", "ambiguity acceptance", "Low", "certainty-seeking", "risk-averse", "Moderate", "balanced", "guided", "High", "exploratory", "open-ended"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 10
+  },
+  "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS–IMPACT": {
+    "synonyms": ["Impact", "effect", "consequence", "Sequencing", "ordering", "arrangement", "Success checks", "evaluation", "validation methods", "Pacing", "speed", "rhythm", "Presentation", "format", "delivery"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 11
+  },
+  "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS–WHY THIS MATTERS": {
+    "synonyms": ["Importance", "relevance", "significance", "Sequencing", "ordering", "progression", "Cognitive load", "mental effort", "capacity", "Motivation", "drive", "persistence", "Stakeholder coherence", "alignment", "approval fit"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 11
+  },
+  "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS–CAUSES": {
+    "synonyms": ["Causes", "errors", "pitfalls", "Mis-sequencing", "wrong order", "incorrect flow", "Assessment mismatch", "evaluation error", "misaligned testing", "Load spikes", "overload", "overwhelm", "Rework", "redoing", "inefficiency", "Motivation misfit", "lack of engagement", "churn risk"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 11
+  },
+
+  "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS–MCQ-ENTRY_PATH": {
+    "synonyms": ["MCQ", "Entry path", "starting mode", "Examples-first", "inductive start", "Principles-first", "deductive start", "Mix both", "hybrid", "blended"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 12
+  },
+  "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS–MCQ-REASONING_DIRECTION": {
+    "synonyms": ["MCQ", "Reasoning direction", "logic flow", "inference style", "Inductive", "bottom-up", "Deductive", "top-down", "Flexible", "adaptive"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 12
+  },
+  "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS–MCQ-VALIDATION_STANDARD": {
+    "synonyms": ["MCQ", "Validation standard", "proof type", "Performance", "execution", "Explanation", "teaching", "Recall", "testing", "Prediction", "External sign-off"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 12
+  },
+  "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS–MCQ-AMBIGUITY_TOLERANCE": {
+    "synonyms": ["MCQ", "Ambiguity tolerance", "uncertainty comfort", "Low", "certainty-seeking", "Moderate", "guided", "High", "exploratory", "open-ended"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 12
+  },
+
+
+  "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES–DESCRIPTION": {
+    "synonyms": ["Learning preferences", "styles", "tendencies", "approaches", "Modalities", "formats", "channels", "Visual", "diagram-based", "Hands-on"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 12
+  },
+  "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES–CAPTURE": {
+    "synonyms": ["Primary modality", "dominant format", "preferred mode", "Interactivity level", "engagement", "activity type", "Social context", "collaboration", "group dynamic", "Memory supports", "Impact", "Delivery Format", "Flow design", "Collaboration model", "Retention layer"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 12
+  },
+  "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES–IMPACT": {
+    "synonyms": ["Impact", "effect", "consequence", "Delivery format", "medium", "channel", "Flow design", "learning path", "Collaboration model", "Retention layer"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 15
+  },
+  "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES–WHY THIS MATTERS": {
+    "synonyms": ["Why this matters", "importance", "relevance", "Fit-to-learner", "personalized", "adaptive", "Interactivity", "activity alignment", "Social context alignment", "Durable skills"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 15
+  },
+  "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES–CAUSES": {
+    "synonyms": ["Causes", "errors", "pitfalls", "Format mismatch", "misaligned format", "Activity mismatch", "task misfit", "Social mismatch", "Recall decay", "forgetting"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 16
+  },
+
+  "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES–MCQ-PRIMARY_MODALITY": {
+    "synonyms": ["MCQ", "Primary modality", "preferred format", "main style", "Visual", "Text-first", "Audio", "Hands-on", "Interactive"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 16
+  },
+  "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES–MCQ-INTERACTIVITY_LEVEL": {
+    "synonyms": ["MCQ", "Interactivity level", "activity depth", "engagement type", "Passive-first", "Exercise-first", "Project-first"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 16
+  },
+  "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES–MCQ-SOCIAL_CONTEXT": {
+    "synonyms": ["MCQ", "Social context", "collaboration style", "group preference", "Solo", "Pair", "Cohort", "Group"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 16
+  },
+  "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES–MCQ-MEMORY_SUPPORTS": {
+    "synonyms": ["MCQ", "Memory supports", "recall tools", "reinforcement aids", "Spaced repetition", "Flashcards", "Concept maps", "Mind maps", "Annotated examples", "Teach-back"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 16
+  },
+
+  "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE–DESCRIPTION": {
+    "synonyms": ["Definition of success", "done", "completion criteria", "acceptance", "Constraints of failure", "red lines", "non-negotiables", "Acceptance criteria", "Deadline profile", "Trade-off rules"],
+    "weight": 1.05,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 17
+  },
+  "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE–CAPTURE": {
+    "synonyms": ["Capture set", "inputs", "required fields", "Top-priority", "critical", "must-have", "Data collection", "intake", "elicitation"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 17
+  },
+  "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE–SUCCESS_ARCHETYPE": {
+    "synonyms": ["Success archetype", "success type", "outcome form", "Deliverable shipped", "Performance target", "Proficiency level", "Behavior change", "Stakeholder sign-off"],
+    "weight": 1.15,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 17
+  },
+  "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE–DEADLINE_PROFILE": {
+    "synonyms": ["Deadline profile", "timing", "schedule strictness", "Immediate & hard", "Near-term & firm", "Mid-term & moderate", "Long-term & flexible"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 18
+  },
+  "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE–TRADE_OFF_PRIORITY": {
+    "synonyms": ["Trade-off priority", "decision priority", "Time first", "Quality first", "Scope first", "Cost first"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 19
+  },
+  "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE–FAILURE_CONSTRAINTS": {
+    "synonyms": ["Failure constraints", "red lines", "hard stops", "Deadline miss", "Quality bar breach", "Budget exceeded", "Compliance breach", "Stakeholder dissatisfaction"],
+    "weight": 1.15,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 19
+  },
+  "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE–IMPACT": {
+    "synonyms": ["Impact", "effect", "consequence", "Milestones", "Acceptance", "Scheduling", "Scope shaping", "Risk controls", "Review cadence"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 20
+  },
+  "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE–WHY THIS MATTERS": {
+    "synonyms": ["Why this matters", "importance", "Alignment", "fit", "coherence", "Rework reduction", "efficiency", "Forecast accuracy", "predictability", "Non-negotiables", "must-haves", "Principled decisions", "rule-based choices"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 21
+  },
+  "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE–CAUSES": {
+    "synonyms": ["Causes", "failure modes", "pitfalls", "Wrong success tests", "misaligned checks", "Deadline slips", "schedule overrun", "Bad cuts", "unplanned scope/quality loss", "Surprises", "hidden risks"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 21
+  },
+
+  "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE–MCQ-SUCCESS_ARCHETYPE": {
+    "synonyms": ["MCQ", "Success archetype", "done type", "Deliverable shipped", "Performance target", "Proficiency level", "Behavior change", "Stakeholder sign-off"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 21
+  },
+  "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE–MCQ-DEADLINE_PROFILE": {
+    "synonyms": ["MCQ", "Deadline profile", "due date strictness", "Immediate & hard", "Near-term & firm", "Mid-term & moderate", "Long-term & flexible"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 21
+  },
+  "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE–MCQ-TRADE_OFF_PRIORITY": {
+    "synonyms": ["MCQ", "Trade-off priority", "decision rule", "Time first", "Quality first", "Scope first", "Cost first"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 21
+  },
+  "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE–MCQ-FAILURE_CONSTRAINTS": {
+    "synonyms": ["MCQ", "Failure constraints", "red lines", "unacceptable outcomes", "Deadline miss", "Quality bar breach", "Budget exceeded", "Compliance breach", "Stakeholder dissatisfaction"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 21
+  },
+
+
+  "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM–DESCRIPTION": {
+    "synonyms": ["Time, energy, rhythm", "availability", "work pattern", "stamina", "weekly capacity", "focus windows", "chronotype", "session length", "cadence", "buffers"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 22
+  },
+  "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM–CAPTURE": {
+    "synonyms": ["Capture", "intake", "measurement", "Priority inputs", "critical fields", "required factors", "Time-energy insights", "availability data", "work stamina signals"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 22
+  },
+  "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM–CAPACITY_PROFILE": {
+    "synonyms": ["Capacity profile", "availability", "workload capacity", "Light", "Moderate", "Strong", "Intensive"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 22
+  },
+  "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM–PEAK_WINDOWS": {
+    "synonyms": ["Peak windows", "focus windows", "energy peaks", "Morning", "Midday", "Evening", "Night"],
+    "weight": 1.05,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 23
+  },
+  "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM–SESSION_LENGTH": {
+    "synonyms": ["Session length", "block size", "focus span", "Micro", "Standard", "Deep", "Marathon"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 24
+  },
+  "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM–CADENCE_STYLE": {
+    "synonyms": ["Cadence style", "rhythm", "weekly pattern", "Steady", "Sprint-based", "Weekend-heavy", "Variable"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 24
+  },
+  "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM–IMPACT": {
+    "synonyms": ["Impact", "effects", "consequences", "Scheduling", "Scoping", "Cadence design", "Risk control"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 25
+  },
+  "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM–WHY THIS MATTERS": {
+    "synonyms": ["Why this matters", "importance", "rationale", "Prevent failure", "Milestones", "Sustainable momentum"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 25
+  },
+  "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM–CAUSES": {
+    "synonyms": ["Causes", "pitfalls", "failure modes", "Overcommitment", "Mis-timed work", "Stamina mismatch", "Rhythm clash"],
+    "weight": 1.05,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 25
+  },
+
+  "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM–MCQ-CAPACITY_PROFILE": {
+    "synonyms": ["MCQ", "multiple-choice", "questionnaire", "Capacity profile", "weekly hours"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 26
+  },
+  "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM–MCQ-PEAK_WINDOWS": {
+    "synonyms": ["MCQ", "multiple-choice", "questionnaire", "Focus windows", "chronotype"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 26
+  },
+  "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM–MCQ-SESSION_LENGTH": {
+    "synonyms": ["MCQ", "multiple-choice", "questionnaire", "Session length", "stamina"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 26
+  },
+  "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM–MCQ-CADENCE_STYLE": {
+    "synonyms": ["MCQ", "multiple-choice", "questionnaire", "Cadence style", "weekly rhythm"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 26
+  },
+
+
+
+  "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE–DESCRIPTION": {
+    "synonyms": ["Pace tolerance", "speed comfort", "workload tempo", "Chunk size", "granularity", "step size", "Escalation curve", "Concurrency", "Review rhythm"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 26
+  },
+  "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE–CAPTURE": {
+    "synonyms": ["Capture", "intake", "collection", "Priority inputs", "essential factors", "critical parameters", "Workload signals", "pace", "granularity", "concurrency", "checkpoints"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 27
+  },
+  "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE–CHUNK_SIZE": {
+    "synonyms": ["Chunk size", "step size", "granularity", "Micro", "Small", "Medium", "Large"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 27
+  },
+  "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE–RAMP_RATE": {
+    "synonyms": ["Ramp rate", "progression speed", "escalation pace", "Conservative", "Balanced", "Aggressive"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 27
+  },
+  "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE–PARALLELISM": {
+    "synonyms": ["Parallelism tolerance", "concurrency", "multitasking capacity", "Single-thread", "Dual-thread", "Multi-thread"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 28
+  },
+  "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE–CHECKPOINT_FREQUENCY": {
+    "synonyms": ["Checkpoint frequency", "review cadence", "feedback loop", "Continuous", "Daily", "Weekly"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 29
+  },
+  "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE–IMPACT": {
+    "synonyms": ["Impact", "effects", "consequences", "Step design", "Escalation planning", "WIP limits", "Control loops"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 29
+  },
+  "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE–WHY THIS MATTERS": {
+    "synonyms": ["Why this matters", "importance", "rationale", "Cognitive load", "Momentum", "Context switching", "Course-correction"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 29
+  },
+  "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE–CAUSES": {
+    "synonyms": ["Causes", "pitfalls", "failure modes", "Overload", "Thrash", "Late discovery", "Stability"],
+    "weight": 1.05,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 30
+  },
+
+  "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE–MCQ-CHUNK_SIZE": {
+    "synonyms": ["MCQ", "multiple-choice", "survey", "Chunk size", "task granularity"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 30
+  },
+  "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE–MCQ-RAMP_RATE": {
+    "synonyms": ["MCQ", "multiple-choice", "survey", "Ramp rate", "growth speed"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 30
+  },
+  "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE–MCQ-PARALLELISM": {
+    "synonyms": ["MCQ", "multiple-choice", "survey", "Parallelism", "concurrency"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 30
+  },
+  "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE–MCQ-CHECKPOINT_FREQUENCY": {
+    "synonyms": ["MCQ", "multiple-choice", "survey", "Checkpoint frequency", "review cadence"],
+    "weight": 1.2,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 30
+  },
+
+
+  "BND–GPP-SUMMARY": {
+    "synonyms": ["General Pain Points", "career blockers", "user struggles", "problem categories", "Employment category", "job field", "career domain", "Semantic meaning", "concept similarity", "NLP alignment", "Scope restriction", "domain-limited", "filtered issues"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 31
+  },
+  "BND–GPP-STRATEGIC-UNCERTAINITY–DESCRIPTION": {
+    "synonyms": ["Strategic uncertainty", "career ambiguity", "unclear vision", "lack of direction", "Long-term vision", "career goals", "personal trajectory", "Ambiguity", "confusion", "vagueness", "Indecision", "hesitation", "second-guessing", "Confidence erosion", "self-doubt", "stagnation"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.strategic_uncertainity",
+    "insight_refs": [],
+    "page_hint": 31
+  },
+  "BND–GPP-STRATEGIC-UNCERTAINITY–APPROACH": {
+    "synonyms": ["Approach", "resolution strategy", "method", "Vision articulation", "goal framing", "clarity building", "Success archetype", "definition of done", "target", "Trade-off priority", "decision rules", "conflict resolution", "Deadline profile", "time strictness", "urgency", "Failure constraints", "red lines", "non-negotiables", "Stuck loop", "decision paralysis", "cycle of indecision"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.strategic_uncertainity",
+    "insight_refs": ["BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE"],
+    "page_hint": 31
+  },
+  "BND–GPP-STRATEGIC-UNCERTAINITY–CHARACTERISTICS": {
+    "synonyms": ["Characteristics", "signs", "indicators", "traits", "Reactive decisions", "impulsive", "unplanned", "Vague goals", "unclear objectives", "shifting targets", "Scattered effort", "low efficiency", "fragmentation", "Fear of wrong choice", "decision anxiety", "hesitation"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.strategic_uncertainity",
+    "insight_refs": [],
+    "page_hint": 31
+  },
+  "BND–GPP-STRATEGIC-UNCERTAINITY–REASONS": {
+    "synonyms": ["Reasons", "causes", "root factors", "Limited exposure", "lack of information", "blind spots", "Conflicting priorities", "trade-offs", "competing demands", "Rapid change", "market shifts", "evolving tech", "Low self-knowledge", "poor self-awareness", "unclear strengths"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.strategic_uncertainity",
+    "insight_refs": [],
+    "page_hint": 32
+  },
+  "BND–GPP-STRATEGIC-UNCERTAINITY–SUMMARY": {
+    "synonyms": ["Summary", "recap", "essence", "Strategic clarity", "clear direction", "coherent goals", "Cohesive plan", "structured path", "unified approach", "Purposeful growth", "intentional progress", "aligned development", "Forward momentum", "progress", "advancement"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.strategic_uncertainity",
+    "insight_refs": [],
+    "page_hint": 32
+  },
+
+
+  "BND–GPP-LOW_SELF_KNOWLEDGE_POSITIONING-DESCRIPTION": {
+    "synonyms": ["Low self-knowledge positioning", "skill gap", "unclear path", "execution uncertainty", "Missing skills", "capability gaps", "lack of proficiency", "Missing tools", "toolchain friction", "lack of resources", "Mental models", "conceptual scaffolds", "frameworks", "Progress stall", "blocked progress", "stagnation", "Over-researching", "analysis paralysis", "resource hopping"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.low_self_knowledge_positioning",
+    "insight_refs": [],
+    "page_hint": 32
+  },
+  "BND–GPP-LOW_SELF_KNOWLEDGE_POSITIONING-APPROACH": {
+    "synonyms": ["Approach", "resolution strategy", "corrective method", "Baseline-gap-closure", "starting point", "gap analysis", "closure plan", "Mental model bootstrap", "conceptual foundation", "thinking framework", "Modality fit", "learning style alignment", "Step sizing", "granularity", "chunking", "Ramp rate", "difficulty growth", "Calendar fit", "time allocation", "rhythm alignment"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.low_self_knowledge_positioning",
+    "insight_refs": ["BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS", "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES", "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE", "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM"],
+    "page_hint": 32
+  },
+  "BND–GPP-LOW_SELF_KNOWLEDGE_POSITIONING-CHARACTERISTICS": {
+    "synonyms": ["Characteristics", "indicators", "traits", "symptoms", "Clear destination", "defined goal", "Fuzzy path", "uncertain process", "unclear roadmap", "Context switching", "task hopping", "distraction", "Setup stall", "tool friction", "environment block", "Re-learning basics", "shallow learning", "weak retention"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.low_self_knowledge_positioning",
+    "insight_refs": [],
+    "page_hint": 33
+  },
+  "BND–GPP-LOW_SELF_KNOWLEDGE_POSITIONING-REASONS": {
+    "synonyms": ["Reasons", "causes", "root issues", "Prerequisite ladder", "step sequence", "learning hierarchy", "Toolchain friction", "setup issues", "resource mismatch", "Mental model gaps", "conceptual errors", "flawed framework", "Modality mismatch", "style misfit", "wrong learning mode", "Pace mismatch", "timing misfit", "rhythm conflict"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.low_self_knowledge_positioning",
+    "insight_refs": [],
+    "page_hint": 33
+  },
+  "BND–GPP-LOW_SELF_KNOWLEDGE_POSITIONING-SUMMARY": {
+    "synonyms": ["Summary", "essence", "recap", "Clear destination", "defined goal", "Missing how", "execution uncertainty", "unclear process", "Prerequisite ladder", "structured path", "staged progression", "Doable path", "practical plan", "actionable roadmap", "Confidence-building", "momentum", "reassurance"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.low_self_knowledge_positioning",
+    "insight_refs": [],
+    "page_hint": 33
+  },
+  
+  "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-DESCRIPTION": {
+    "synonyms": ["Cognitive execution constraints", "mental fatigue", "attention limits", "performance barriers", "Limited focus", "short attention span", "distraction-prone", "Energy depletion", "burnout", "low stamina", "Decision overload", "choice fatigue", "mental clutter", "Open loops", "unfinished tasks", "incomplete work"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.cognitive_execution_constraints",
+    "insight_refs": [],
+    "page_hint": 34
+  },
+  "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-APPROACH": {
+    "synonyms": ["Approach", "strategy", "solution", "Energy-aware scheduling", "time alignment", "rhythm-based planning", "Right-sized steps", "task chunking", "workload sizing", "Low-cognitive-load delivery", "simplified formats", "reduced friction", "Minimum viable path", "lean outcomes", "good enough criteria"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.cognitive_execution_constraints",
+    "insight_refs": ["BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM", "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE", "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES", "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE"],
+    "page_hint": 34
+  },
+  "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-CHARACTERISTICS": {
+    "synonyms": ["Characteristics", "signs", "symptoms", "indicators", "Irregular streaks", "inconsistent practice", "unstable habits", "Decision overload", "choice fatigue", "mental strain", "Interruptions", "disruptions", "context breaks", "Burnout", "mental exhaustion", "overwork", "Meaningless blocks", "under-stimulation", "trivial tasks"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.cognitive_execution_constraints",
+    "insight_refs": [],
+    "page_hint": 34
+  },
+  "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-REASONS": {
+    "synonyms": ["Reasons", "root causes", "underlying issues", "Low energy", "fatigue", "exhaustion", "Oversized tasks", "scope overload", "stamina mismatch", "Parallelism excess", "too many threads", "multitasking strain", "Tool friction", "setup delays", "technical barriers", "Perfectionism", "over-polishing", "unrealistic standards"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.cognitive_execution_constraints",
+    "insight_refs": [],
+    "page_hint": 35
+  },
+  "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-SUMMARY": {
+    "synonyms": ["Summary", "essence", "recap", "Cognitive fuel", "mental resources", "brainpower", "Reliable completions", "consistent output", "finished tasks", "Progress stabilization", "steady growth", "reduced volatility", "Confidence building", "trust in ability", "self-assurance"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.cognitive_execution_constraints",
+    "insight_refs": [],
+    "page_hint": 35
+  },
+
+  "BND–GPP-CAPABILITY_SHORTFALL-DESCRIPTION": {
+    "synonyms": ["Capability shortfall", "skill gap", "execution deficit", "ability mismatch", "Unclear direction", "vague vision", "lack of guidance", "Arbitrary steps", "random tasks", "unfocused actions", "Tooling friction", "setup delays", "environment blockers", "Weak conceptual frames", "shallow models", "poor scaffolds", "Stop–start cycles", "inconsistent progress", "stalled attempts"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.capability_shortfall",
+    "insight_refs": [],
+    "page_hint": 37
+  },
+  "BND–GPP-CAPABILITY_SHORTFALL-APPROACH": {
+    "synonyms": ["Approach", "solution", "corrective strategy", "Strategy framing", "direction-setting", "goal alignment", "Capability ladder", "stepwise growth", "staged skill-building", "Mental-model map", "conceptual scaffolds", "reasoning pathways", "Modality-driven practice", "learning style alignment", "Pace & schedule fit", "time-energy match", "workload calibration"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.capability_shortfall",
+    "insight_refs": ["BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE", "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS", "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES", "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE", "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM"],
+    "page_hint": 37
+  },
+  "BND–GPP-CAPABILITY_SHORTFALL-CHARACTERISTICS": {
+    "synonyms": ["Characteristics", "signs", "indicators", "traits", "Explicit goal", "clear destination", "defined target", "Unclear path", "vague roadmap", "missing direction", "Setup stalls", "tool friction", "environment blockers", "Studying without outputs", "theory-only learning", "shallow practice", "Tactical overwhelm", "decision fatigue", "option overload", "Abandonment", "drop-off", "disengagement"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.capability_shortfall",
+    "insight_refs": [],
+    "page_hint": 38
+  },
+  "BND–GPP-CAPABILITY_SHORTFALL-REASONS": {
+    "synonyms": ["Reasons", "causes", "underlying issues", "Missing prerequisite ladder", "no structured sequence", "step gap", "Undefined success tests", "unclear criteria", "vague standards", "Mental model gaps", "conceptual weakness", "shallow understanding", "Toolchain gaps", "resource lack", "setup problems", "Modality misfit", "wrong learning style", "pace mismatch", "Overload/boredom", "cognitive strain", "disengagement"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.capability_shortfall",
+    "insight_refs": [],
+    "page_hint": 38
+  },
+  "BND–GPP-CAPABILITY_SHORTFALL-SUMMARY": {
+    "synonyms": ["Summary", "essence", "recap", "Unclear direction", "vague strategy", "missing vision", "Missing “how”", "execution gap", "unclear method", "Capability roadmap", "skill ladder", "structured plan", "Reduced friction", "low barriers", "smoother flow", "Increased throughput", "higher productivity", "steady progress", "Confidence-building outputs", "meaningful results", "trust in progress"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.capability_shortfall",
+    "insight_refs": [],
+    "page_hint": 38
+  },
+
+
+  "BND–GPP-MISSING_LEARNING_ARCHITECTURE-DESCRIPTION": {
+    "synonyms": ["Missing learning architecture", "no curriculum", "lack of framework", "absent structure", "Consumption learning", "passive study", "one-way intake", "No sequencing", "unstructured tasks", "random order", "Missing checkpoints", "no milestones", "no acceptance criteria", "Low confidence", "uncertainty", "self-doubt", "Poor retention", "forgetting", "knowledge decay"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.missing_learning_architecture",
+    "insight_refs": [],
+    "page_hint": 38
+  },
+  "BND–GPP-MISSING_LEARNING_ARCHITECTURE-APPROACH": {
+    "synonyms": ["Approach", "solution", "corrective method", "Curriculum design", "structured path", "learning framework", "Milestones", "checkpoints", "progress markers", "Step sizing", "task granularity", "workload calibration", "Rhythm scheduling", "time alignment", "cadence planning", "Practice design", "active learning", "skill application", "Validation", "success criteria", "assessment"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.missing_learning_architecture",
+    "insight_refs": ["BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE", "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE", "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM", "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES", "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS"],
+    "page_hint": 39
+  },
+  "BND–GPP-MISSING_LEARNING_ARCHITECTURE-CHARACTERISTICS": {
+    "synonyms": ["Characteristics", "symptoms", "indicators", "Notes without output", "passive collection", "no production", "Relearning basics", "resetting", "shallow retention", "No leveling up", "stagnation", "no progression", "Random difficulty", "unpredictable challenge", "poor sequencing", "Missing feedback", "no reviews", "error repetition"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.missing_learning_architecture",
+    "insight_refs": [],
+    "page_hint": 39
+  },
+  "BND–GPP-MISSING_LEARNING_ARCHITECTURE-REASONS": {
+    "synonyms": ["Reasons", "root causes", "contributing factors", "Missing milestone ladder", "no roadmap", "undefined progress path", "Poor task sizing", "overload", "underload", "Unsynced scheduling", "bad timing", "misaligned effort", "Modality mismatch", "wrong format", "poor fit", "Unclear validation", "undefined success tests", "weak checkpoints"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.missing_learning_architecture",
+    "insight_refs": [],
+    "page_hint": 39
+  },
+  "BND–GPP-MISSING_LEARNING_ARCHITECTURE-SUMMARY": {
+    "synonyms": ["Summary", "essence", "recap", "Absence of system", "no framework", "lack of structure", "Cohesive curriculum", "organized pathway", "structured plan", "Durable skill", "long-term competence", "retained ability", "Visible progress", "measurable improvement", "confidence growth"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.missing_learning_architecture",
+    "insight_refs": [],
+    "page_hint": 40
+  },
+
+
+  "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-DESCRIPTION": {
+    "synonyms": ["Poor goal–incentive alignment", "misaligned objectives", "incentive mismatch", "habit–goal conflict", "Talk–do gap", "intention–action gap", "inconsistency", "Short-term optimization", "immediate reward bias", "comfort-first actions", "Conflicting cues", "environmental distractions", "misaligned triggers", "Motivation decay", "loss of drive", "dwindling focus", "Busyness without progress", "false productivity", "activity trap"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.poor_goal_incentive_alignment",
+    "insight_refs": [],
+    "page_hint": 40
+  },
+  "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-APPROACH": {
+    "synonyms": ["Approach", "solution", "corrective plan", "Reinforcing loop", "Decision rules", "Habit hooks", "Step salience", "Friction fit", "Validation alignment", "choice frameworks"],
+    "weight": 1.1,
+    "pain_point_id": "gpp.poor_goal_incentive_alignment",
+    "insight_refs": ["BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE", "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM", "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE", "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES", "BND–GIT-CATEGORIES-KNOWLEDGE_PERCEPTION_MENTAL_MODELS"],
+    "page_hint": 40
+  },
+  "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-CHARACTERISTICS": {
+    "synonyms": ["Characteristics", "signs", "indicators", "Inconsistent behaviors", "Urgent over important", "Environment cues", "Invisible progress", "Willpower dependence", "reactive focus", "contextual distractions"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.poor_goal_incentive_alignment",
+    "insight_refs": [],
+    "page_hint": 41
+  },
+  "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-REASONS": {
+    "synonyms": ["Reasons", "causes", "Missing milestones", "High-friction timing", "Overlarge chunk size", "Ramp rate mismatch", "Modality/context mismatch", "Validation misalignment", "bad scheduling", "reward mismatch"],
+    "weight": 1.0,
+    "pain_point_id": "gpp.poor_goal_incentive_alignment",
+    "insight_refs": [],
+    "page_hint": 41
+  },
+  "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-SUMMARY": {
+    "synonyms": ["Summary", "Systems problem", "Wrong behaviors rewarded", "Clarified success", "High-impact actions", "Low-friction formats", "Reinforcing path", "aligned routine", "measurable targets", "seamless delivery"],
+    "weight": 1.05,
+    "pain_point_id": "gpp.poor_goal_incentive_alignment",
+    "insight_refs": [],
+    "page_hint": 41
+  },
+
+
+  "BND–ECT-DATA_SCIENTIST-DESCRIPTION": {
+    "synonyms": ["Data Scientist", "data analyst", "ML engineer", "AI specialist", "business intelligence professional", "Data insights", "analytics-driven decisions", "evidence-based insights", "Problem solving", "predictive analysis"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 42
+  },
+  "BND–ECT-DATA_SCIENTIST-DO": {
+    "synonyms": ["Data collection", "data acquisition", "ETL", "Data preparation", "data cleaning", "Data analysis", "statistical modeling", "Machine learning", "Data visualization", "Business decision support"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 42
+  },
+  "BND–ECT-DATA_SCIENTIST-APPROACH": {
+    "synonyms": ["Personalised plan", "custom roadmap", "adaptive pathway", "Skill acquisition", "structured learning", "competency development", "Lifelong intelligence", "durable skill formation", "future-proof learning"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 42
+  },
+  "BND–ECT-DATA_SCIENTIST-CONDITION": {
+    "synonyms": ["Learning condition", "constraints", "rules", "Skill selection", "elective path", "Sequential learning", "step-by-step mastery", "Success dependency", "learner driven result", "limitations"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 42
+  },
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX": {
+    "synonyms": ["Programming", "Python coding", "R programming", "SQL", "database querying", "Data wrangling", "ETL", "Statistics", "probability", "Machine learning"],
+    "weight": 1.05,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 43
+  },
+
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–PROGRAMMING-DESCRIPTION": {
+    "synonyms": ["Programming", "coding", "software development", "Python", "pandas", "NumPy", "R", "tidyverse", "Reproducibility", "Deployment"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 43
+  },
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–PROGRAMMING-IMPACT": {
+    "synonyms": ["Employability", "career readiness", "Productivity", "velocity", "Reliability", "reproducibility", "End-to-end ownership", "autonomy", "Collaboration", "reusable tools"],
+    "weight": 1.05,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 44
+  },
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–PROGRAMMING-INTELLIGENCE": {
+    "synonyms": ["Analytical reasoning", "Working memory", "Abstraction", "Pattern recognition", "Specification precision", "Quantitative reasoning", "Metacognition", "Creativity", "Conscientiousness"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 44
+  },
+
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–SQL_DATA_QUERYING-DESCRIPTION": {
+    "synonyms": ["SQL", "Structured Query Language", "Data querying", "joins", "aggregations", "Window functions", "Query optimization", "Schema modeling", "Time-series handling", "Cross platform SQL"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 45
+  },
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–SQL_DATA_QUERYING-IMPACT": {
+    "synonyms": ["Employability", "baseline screening", "Analytical speed", "faster insights", "Data quality", "Performance", "warehouse efficiency", "Interoperability", "reusable queries", "Autonomy"],
+    "weight": 1.05,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 45
+  },
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–SQL_DATA_QUERYING-INTELLIGENCE": {
+    "synonyms": ["Relational reasoning", "Boolean logic", "Schema modeling", "Working memory", "Statistical numeracy", "Query patterns", "Performance intuition", "Temporal reasoning", "Specification clarity", "Metacognition"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 46
+  },
+
+
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–DATA_WRANGLING-DESCRIPTION": {
+    "synonyms": ["Data cleaning", "preprocessing", "Pandas", "ETL", "feature engineering", "schema management", "data pipelines", "imputation", "data normalization", "auditability"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 46
+  },
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–DATA_WRANGLING-IMPACT": {
+    "synonyms": ["Employability", "Reliability", "Data quality", "Performance", "cost reduction", "Reusability", "cross-team pipelines", "repeatability", "scalability", "feature integrity"],
+    "weight": 1.05,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 47
+  },
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–DATA_WRANGLING-INTELLIGENCE": {
+    "synonyms": ["Schema reasoning", "Data quality", "Temporal reasoning", "Text parsing", "Unit normalization", "Reusability", "Performance intuition", "Debug strategies", "Quality discipline"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 48
+  },
+
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–STATISTICS_PROBABILITY-DESCRIPTION": {
+    "synonyms": ["Probability theory", "inferential statistics", "distributions", "hypothesis testing", "regression", "Bayesian methods", "frequentist methods", "uncertainty quantification", "resampling", "confidence intervals"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 49
+  },
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–STATISTICS_PROBABILITY-IMPACT": {
+    "synonyms": ["Employability", "credibility", "Decision quality", "Experimentation", "Modeling reliability", "Stakeholder trust", "Compliance", "risk reduction", "calibration", "validation"],
+    "weight": 1.05,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 49
+  },
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–STATISTICS_PROBABILITY-INTELLIGENCE": {
+    "synonyms": ["Probabilistic thinking", "Hypothesis testing", "Causal inference", "Model building", "Statistical diagnostics", "Risk reasoning", "Communication clarity", "uncertainty reasoning", "DAGs", "effect size"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 49
+  },
+
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–MACHINE_LEARNING_ALGORITHMS-DESCRIPTION": {
+    "synonyms": ["supervised models", "unsupervised models", "regression", "classification", "clustering", "ensemble models", "neural networks", "dimensionality reduction", "hyperparameter tuning", "ML pipelines"],
+    "weight": 1.0,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 50
+  },
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–MACHINE_LEARNING_ALGORITHMS-IMPACT": {
+    "synonyms": ["employability", "performance optimization", "KPI impact", "experimentation velocity", "risk management", "cross domain transferability"],
+    "weight": 1.05,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 51
+  },
+  "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX-MOST_DEMANDED–MACHINE_LEARNING_ALGORITHMS-INTELLIGENCE": {
+    "synonyms": ["bias-variance tradeoff", "optimization", "interpretability", "uncertainty quantification", "causal inference", "error analysis", "feature engineering", "ensemble learning", "pipeline design", "ethics in AI"],
+    "weight": 1.1,
+    "pain_point_id": "",
+    "insight_refs": [],
+    "page_hint": 51
+  }
+}

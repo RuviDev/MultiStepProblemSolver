@@ -1,0 +1,27 @@
+{
+  "version": "user-fill",
+  "format": "markdown",
+  "language": "en",
+  "target_tokens": 450,
+  "max_tokens": 900,
+  "permissions_tools": [
+    "evidence_vault"
+  ],
+  "verification_controls": {
+    "must_cite": true,
+    "fallback_ok": true
+  },
+  "tone_default": "neutral",
+  "tone_escalation": [
+    "neutral",
+    "motivational"
+  ],
+  "layered_template": [
+    "Preface",
+    "Core Summary",
+    "Evidence",
+    "Checklist",
+    "Closer",
+    "Sources"
+  ]
+}

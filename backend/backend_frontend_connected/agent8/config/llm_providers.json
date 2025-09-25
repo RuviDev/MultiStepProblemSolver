@@ -1,0 +1,28 @@
+{
+  "version": "v1",
+  "primary": {
+    "name": "openai",
+    "model": "gpt-4o-mini",
+    "api_key_env": "OPENAI_API_KEY",
+    "timeout_sec": 35
+  },
+  "fallback": {
+    "name": "gemini",
+    "model": "gemini-2.0-flash",
+    "api_key_env": "GEMINI_API_KEY",
+    "timeout_sec": 35
+  },
+  "policy": {
+    "max_retries": 1,
+    "circuit_break_after": 3,
+    "json_strict": false,
+    "dry_run_if_unavailable": true
+  },
+  "default_provider": "openai",
+  "openai": {
+    "models": {
+      "local-small": "gpt-4o-mini",
+      "default": "gpt-4o-mini"
+    }
+  }
+}

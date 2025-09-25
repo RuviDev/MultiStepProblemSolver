@@ -1,0 +1,17 @@
+{
+  "allow_profile": true,
+  "fields": {
+    "tone_preference": {
+      "ttl_days": 180
+    },
+    "micro_questions": {
+      "ttl_days": 90
+    },
+    "default_role": {
+      "ttl_days": 365
+    },
+    "language": {
+      "ttl_days": 365
+    }
+  }
+}

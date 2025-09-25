@@ -1,0 +1,5 @@
+{
+  "provider": "openai",
+  "answerability": "partial_needs_insights",
+  "chars": 2314
+}

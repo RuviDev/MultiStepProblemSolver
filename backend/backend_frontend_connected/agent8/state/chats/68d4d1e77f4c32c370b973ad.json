@@ -1,0 +1,423 @@
+{
+  "history_summary": "[2025-09-25T05:24:34.126521Z] user: ok so i want to be a data analyst but dont from where i should start for this. [2025-09-25T05:26:22.274781Z] user: can you explain me a about this first? [2025-09-25T05:27:30.511883Z] user: I'm having a difficulty in managing time, workload as i have got other work also to do.",
+  "problem_records": [
+    {
+      "problem_id": "P-data_analyst_jr-20250925052415",
+      "employment_category": "data_analyst_jr",
+      "pain_points": [
+        "gpp.poor_goal_incentive_alignment"
+      ],
+      "pcc_snapshot": {
+        "format": "markdown",
+        "language": "en",
+        "tone": "neutral",
+        "length": "concise",
+        "target_tokens": 220,
+        "max_tokens": 500,
+        "structure": [
+          "Preface",
+          "Core Summary",
+          "Evidence",
+          "Checklist",
+          "Closer",
+          "Sources"
+        ],
+        "answerability": "partial_needs_insights",
+        "missing_fields": [
+          "git.categories.definition_of_success_constraints_of_failure.mcq.deadline_profile",
+          "git.categories.definition_of_success_constraints_of_failure.mcq.failure_constraints",
+          "git.categories.definition_of_success_constraints_of_failure.mcq.success_archetype",
+          "git.categories.definition_of_success_constraints_of_failure.mcq.trade_off_priority",
+          "git.categories.learning_preferences_modalities.mcq.interactivity_level",
+          "git.categories.learning_preferences_modalities.mcq.memory_supports",
+          "git.categories.learning_preferences_modalities.mcq.primary_modality",
+          "git.categories.learning_preferences_modalities.mcq.social_context",
+          "git.categories.pace_tolerance_chunk_size.mcq.checkpoint_frequency",
+          "git.categories.pace_tolerance_chunk_size.mcq.chunk_size",
+          "git.categories.pace_tolerance_chunk_size.mcq.parallelism",
+          "git.categories.pace_tolerance_chunk_size.mcq.ramp_rate",
+          "git.categories.time_energy_rhythm.mcq.cadence_style",
+          "git.categories.time_energy_rhythm.mcq.capacity_profile",
+          "git.categories.time_energy_rhythm.mcq.peak_windows",
+          "git.categories.time_energy_rhythm.mcq.session_length_tolerance"
+        ],
+        "retrieval": {
+          "mode": "vault_only",
+          "anchors_scope": [
+            {
+              "id": "gpp.poor_goal_incentive_alignment",
+              "prob": 0.9011053805401424,
+              "raw": 10.0
+            },
+            {
+              "id": "gpp.low_self_knowledge_positioning",
+              "prob": 0.04486339518760213,
+              "raw": 7.0
+            },
+            {
+              "id": "gpp.capability_shortfall",
+              "prob": 0.04486339518760213,
+              "raw": 7.0
+            },
+            {
+              "id": "gpp.cognitive_execution_constraints",
+              "prob": 0.00607160029467022,
+              "raw": 5.0
+            },
+            {
+              "id": "gpp.cognitive_execution_constraints",
+              "prob": 0.0022336169234196453,
+              "raw": 4.0
+            }
+          ],
+          "top_k": 6,
+          "rerank": true
+        },
+        "sul": {
+          "llm_enabled": true,
+          "max_calls": 1,
+          "model_hint": "local-small",
+          "cite_or_decline": true
+        },
+        "verifications": {
+          "must_cite": true,
+          "fact_check": "strict",
+          "reasoning_trace": "compact"
+        },
+        "style": {
+          "bullets_allowed": true,
+          "use_checklists": true,
+          "headers_from_structure": true
+        },
+        "citations": {
+          "required": true,
+          "style": "inline_brackets"
+        }
+      },
+      "mapping_confidence": 0.807,
+      "ambiguous": false,
+      "turns": 3,
+      "evidence_used": true,
+      "queued_categories": [],
+      "insights": {},
+      "last_updated": "2025-09-25T05:27:30.512895Z",
+      "evidence_history": [
+        {
+          "at": "2025-09-25T05:24:34.110245Z",
+          "items": [
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-DESCRIPTION",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-CHARACTERISTICS",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-REASONS",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-SUMMARY",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-APPROACH",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND-SCOPE-ROLES-POINTER",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            }
+          ]
+        },
+        {
+          "at": "2025-09-25T05:26:22.256912Z",
+          "items": [
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-DESCRIPTION",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-CHARACTERISTICS",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-SUMMARY",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-REASONS",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-APPROACH",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND-SCOPE-OVERVIEW",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            }
+          ]
+        },
+        {
+          "at": "2025-09-25T05:27:30.492475Z",
+          "items": [
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-DESCRIPTION",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-REASONS",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-CHARACTERISTICS",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-SUMMARY",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-APPROACH",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND-SCOPE-BOUNDARY",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            }
+          ]
+        }
+      ],
+      "last_evidence_pack": [
+        {
+          "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-DESCRIPTION",
+          "score": null,
+          "snippet": "",
+          "source_doc": "Research Article 03.pdf",
+          "page": null
+        },
+        {
+          "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-REASONS",
+          "score": null,
+          "snippet": "",
+          "source_doc": "Research Article 03.pdf",
+          "page": null
+        },
+        {
+          "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-CHARACTERISTICS",
+          "score": null,
+          "snippet": "",
+          "source_doc": "Research Article 03.pdf",
+          "page": null
+        },
+        {
+          "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-SUMMARY",
+          "score": null,
+          "snippet": "",
+          "source_doc": "Research Article 03.pdf",
+          "page": null
+        },
+        {
+          "anchor_id": "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-APPROACH",
+          "score": null,
+          "snippet": "",
+          "source_doc": "Research Article 03.pdf",
+          "page": null
+        },
+        {
+          "anchor_id": "BND-SCOPE-BOUNDARY",
+          "score": null,
+          "snippet": "",
+          "source_doc": "Research Article 03.pdf",
+          "page": null
+        }
+      ],
+      "dialogue_snippets": [
+        {
+          "at": "2025-09-25T05:24:34.126521Z",
+          "prompt": "ok so i want to be a data analyst but dont from where i should start for this.",
+          "employment_category": "data_analyst_jr",
+          "pain_points": [
+            "gpp.poor_goal_incentive_alignment"
+          ],
+          "mapping_confidence": 0.708,
+          "answerability": "partial_needs_insights",
+          "missing_fields": [
+            "git.categories.definition_of_success_constraints_of_failure.mcq.deadline_profile",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.failure_constraints",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.success_archetype",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.trade_off_priority",
+            "git.categories.learning_preferences_modalities.mcq.interactivity_level",
+            "git.categories.learning_preferences_modalities.mcq.memory_supports",
+            "git.categories.learning_preferences_modalities.mcq.primary_modality",
+            "git.categories.learning_preferences_modalities.mcq.social_context",
+            "git.categories.pace_tolerance_chunk_size.mcq.checkpoint_frequency",
+            "git.categories.pace_tolerance_chunk_size.mcq.chunk_size",
+            "git.categories.pace_tolerance_chunk_size.mcq.parallelism",
+            "git.categories.pace_tolerance_chunk_size.mcq.ramp_rate",
+            "git.categories.time_energy_rhythm.mcq.cadence_style",
+            "git.categories.time_energy_rhythm.mcq.capacity_profile",
+            "git.categories.time_energy_rhythm.mcq.peak_windows",
+            "git.categories.time_energy_rhythm.mcq.session_length_tolerance"
+          ],
+          "survey_len": 16,
+          "evidence_anchors": [
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-DESCRIPTION",
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-CHARACTERISTICS",
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-REASONS",
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-SUMMARY",
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-APPROACH",
+            "BND-SCOPE-ROLES-POINTER"
+          ]
+        },
+        {
+          "at": "2025-09-25T05:26:22.274781Z",
+          "prompt": "can you explain me a about this first?",
+          "employment_category": "data_analyst_jr",
+          "pain_points": [
+            "gpp.poor_goal_incentive_alignment"
+          ],
+          "mapping_confidence": 0.708,
+          "answerability": "partial_needs_insights",
+          "missing_fields": [
+            "git.categories.definition_of_success_constraints_of_failure.mcq.deadline_profile",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.failure_constraints",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.success_archetype",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.trade_off_priority",
+            "git.categories.learning_preferences_modalities.mcq.interactivity_level",
+            "git.categories.learning_preferences_modalities.mcq.memory_supports",
+            "git.categories.learning_preferences_modalities.mcq.primary_modality",
+            "git.categories.learning_preferences_modalities.mcq.social_context",
+            "git.categories.pace_tolerance_chunk_size.mcq.checkpoint_frequency",
+            "git.categories.pace_tolerance_chunk_size.mcq.chunk_size",
+            "git.categories.pace_tolerance_chunk_size.mcq.parallelism",
+            "git.categories.pace_tolerance_chunk_size.mcq.ramp_rate",
+            "git.categories.time_energy_rhythm.mcq.cadence_style",
+            "git.categories.time_energy_rhythm.mcq.capacity_profile",
+            "git.categories.time_energy_rhythm.mcq.peak_windows",
+            "git.categories.time_energy_rhythm.mcq.session_length_tolerance"
+          ],
+          "survey_len": 16,
+          "evidence_anchors": [
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-DESCRIPTION",
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-CHARACTERISTICS",
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-SUMMARY",
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-REASONS",
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-APPROACH",
+            "BND-SCOPE-OVERVIEW"
+          ]
+        },
+        {
+          "at": "2025-09-25T05:27:30.511883Z",
+          "prompt": "I'm having a difficulty in managing time, workload as i have got other work also to do.",
+          "employment_category": "data_analyst_jr",
+          "pain_points": [
+            "gpp.poor_goal_incentive_alignment"
+          ],
+          "mapping_confidence": 0.907,
+          "answerability": "partial_needs_insights",
+          "missing_fields": [
+            "git.categories.definition_of_success_constraints_of_failure.mcq.deadline_profile",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.failure_constraints",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.success_archetype",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.trade_off_priority",
+            "git.categories.learning_preferences_modalities.mcq.interactivity_level",
+            "git.categories.learning_preferences_modalities.mcq.memory_supports",
+            "git.categories.learning_preferences_modalities.mcq.primary_modality",
+            "git.categories.learning_preferences_modalities.mcq.social_context",
+            "git.categories.pace_tolerance_chunk_size.mcq.checkpoint_frequency",
+            "git.categories.pace_tolerance_chunk_size.mcq.chunk_size",
+            "git.categories.pace_tolerance_chunk_size.mcq.parallelism",
+            "git.categories.pace_tolerance_chunk_size.mcq.ramp_rate",
+            "git.categories.time_energy_rhythm.mcq.cadence_style",
+            "git.categories.time_energy_rhythm.mcq.capacity_profile",
+            "git.categories.time_energy_rhythm.mcq.peak_windows",
+            "git.categories.time_energy_rhythm.mcq.session_length_tolerance"
+          ],
+          "survey_len": 16,
+          "evidence_anchors": [
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-DESCRIPTION",
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-REASONS",
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-CHARACTERISTICS",
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-SUMMARY",
+            "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-APPROACH",
+            "BND-SCOPE-BOUNDARY"
+          ]
+        }
+      ],
+      "planning_brief": "Role: data_analyst_jr | Pain points: Poor goal–incentive alignment | Insights: — | Evidence anchors: BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-DESCRIPTION, BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-REASONS, BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-CHARACTERISTICS, BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-SUMMARY",
+      "generation_history": [
+        {
+          "provider": "openai"
+        },
+        {
+          "provider": "openai"
+        },
+        {
+          "provider": "openai"
+        }
+      ],
+      "last_response": {
+        "provider": "openai",
+        "pcc_answerability": "partial_needs_insights",
+        "markdown": "# Preface\nManaging time and workload effectively is crucial, especially in a role like a Junior Data Analyst, where balancing multiple tasks can be challenging. Understanding the underlying issues related to goal-incentive alignment can provide insights into improving your situation.\n\n# Core Summary\nPoor goal-incentive alignment can significantly impact your ability to manage time and workload. This misalignment often arises when the objectives set for you do not correspond with the incentives provided, leading to confusion and inefficiency. Characteristics of this issue include unclear priorities, lack of motivation, and difficulty in measuring success, all of which can exacerbate the feeling of being overwhelmed by multiple responsibilities. Addressing these misalignments can help streamline your efforts and improve your overall productivity.\n\n# Evidence\nResearch indicates that poor goal-incentive alignment can stem from various reasons, such as unclear expectations or conflicting priorities. When your goals do not align with the incentives you receive, it can create a disconnect that hinders your performance and satisfaction in your role. This situation is characterized by a lack of clarity in what is expected of you, which can lead to frustration and decreased motivation. \n\nTo improve this alignment, it is essential to establish clear, achievable goals that are directly tied to your incentives. This approach can help you focus on what truly matters and manage your workload more effectively, ultimately leading to better outcomes in your work.\n\n# Checklist\n- Reflect on your current goals and incentives.\n- Identify any discrepancies between what is expected and what you are motivated to achieve.\n- Consider discussing your goals with a supervisor to ensure alignment.\n\n# Closer\nUnderstanding the dynamics of goal-incentive alignment can be a crucial step in managing your workload more effectively. If you have specific areas where you feel misalignment occurs, identifying those can help in addressing them directly. Would you like to explore any particular goals or tasks that are causing you concern?\n\n# Sources\n- [BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-DESCRIPTION]\n- [BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-REASONS]\n- [BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-CHARACTERISTICS]\n- [BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-SUMMARY]\n- [BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-APPROACH]\n- [BND-SCOPE-BOUNDARY]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "queries": 114,
+  "k_list": [
+    1,
+    3,
+    8
+  ],
+  "threshold": "strict",
+  "metrics": {
+    "Recall@K": {
+      "1": 0.543859649122807,
+      "3": 0.7368421052631579,
+      "8": 0.8245614035087719
+    },
+    "MRR@K": {
+      "1": 0.543859649122807,
+      "3": 0.631578947368421,
+      "8": 0.6506683375104427
+    }
+  },
+  "examples": {
+    "hits": [
+      {
+        "query": "what is the purpose of Relativity AI for juniors?",
+        "hit_anchor": "BND\u2013WHAT-IT-DOES-PRINCIPLE:",
+        "rank": 3
+      },
+      {
+        "query": "how does the junior ladder work from graduate to junior?",
+        "hit_anchor": "BND\u2013FUNCTION\u2013PURPOSE",
+        "rank": 1
+      },
+      {
+        "query": "how does the plan\u2013personalize\u2013execute principle work?",
+        "hit_anchor": "BND\u2013WHAT-IT-DOES-PRINCIPLE:",
+        "rank": 1
+      },
+      {
+        "query": "how do you personalize learning using my preferences?",
+        "hit_anchor": "BND\u2013WHAT-IT-DOES-PRINCIPLE:",
+        "rank": 1
+      },
+      {
+        "query": "how do you help me think outside the box while learning?",
+        "hit_anchor": "BND\u2013WHAT-IT-DOES\u2013VALUE-PREP:",
+        "rank": 1
+      },
+      {
+        "query": "do you develop intelligence, not just skills?",
+        "hit_anchor": "BND\u2013WHAT-IT-DOES\u2013VALUE-PREP:",
+        "rank": 1
+      },
+      {
+        "query": "what is the problem tuple for this RAG (role + pain points)?",
+        "hit_anchor": "BND-SCOPE-PROBLEM",
+        "rank": 1
+      },
+      {
+        "query": "summarize the scope and corpus limits for junior-only tech",
+        "hit_anchor": "BND-SCOPE-OVERVIEW",
+        "rank": 1
+      },
+      {
+        "query": "what is in-scope vs out-of-scope for this system?",
+        "hit_anchor": "BND-SCOPE-BOUNDARY",
+        "rank": 2
+      },
+      {
+        "query": "which junior roles are supported right now?",
+        "hit_anchor": "BND-SCOPE-ROLES-POINTER",
+        "rank": 1
+      }
+    ],
+    "misses_sample": [
+      "what is the end goal of this system for junior roles?",
+      "can this improve my IQ for tech roles?",
+      "do you include spaced and retrieval practice in the plan?",
+      "what's the step-by-step learning flow?",
+      "can you guarantee results?",
+      "where can I find the General Insight Taxonomy?",
+      "what\u2019s the impact of my knowledge perception on the plan?",
+      "what causes misalignment in knowledge perception setup?",
+      "how do you capture my modality, interactivity, social context, and memory supports?",
+      "why do learning preferences matter for my plan?",
+      "why does time\u2013energy rhythm matter for scheduling?",
+      "what goes wrong if pace tolerance settings are missing?",
+      "what are general pain points and how are they scoped?",
+      "why do I keep bouncing between resources?",
+      "why do my attempts not map cleanly to the goal?",
+      "what mental models help with SQL?",
+      "which cognitive skills drive data wrangling?",
+      "stats topics I must master for data science",
+      "why ML algorithm skill moves the needle",
+      "which cognitive skills matter for ML modeling?"
+    ]
+  }
+}

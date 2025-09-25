@@ -1,0 +1,294 @@
+{
+  "version": "v0.6",
+  "pain_points": [
+    {
+      "id": "gpp.strategic_uncertainity",
+      "title": "Strategic uncertainty",
+      "synonyms": [
+        "career ambiguity",
+        "unclear vision",
+        "lack of direction",
+        "indecision",
+        "second-guessing",
+        "self-doubt",
+        "stagnation"
+      ],
+      "signals": [
+        "Decisions feel reactive rather than guided.",
+        "Goals are vague/shifting; priorities change often.",
+        "Effort scattered across low-progress tasks.",
+        "Frequent second-guessing, fear of \"picking wrong\"."
+      ],
+      "requires_insights": [
+        "git.categories.definition_of_success_constraints_of_failure"
+      ],
+      "anchors": [
+        "BND–GPP-STRATEGIC-UNCERTAINITY",
+        "BND–GPP-STRATEGIC-UNCERTAINITY-DESCRIPTION",
+        "BND–GPP-STRATEGIC-UNCERTAINITY-APPROACH",
+        "BND–GPP-STRATEGIC-UNCERTAINITY-CHARACTERISTICS",
+        "BND–GPP-STRATEGIC-UNCERTAINITY-REASONS",
+        "BND–GPP-STRATEGIC-UNCERTAINITY-SUMMARY"
+      ]
+    }, 
+    {
+      "id": "gpp.low_self_knowledge_positioning",
+      "title": "Low self-knowledge & positioning",
+      "synonyms": [
+        "skill gap",
+        "unclear path",
+        "execution uncertainty",
+        "analysis paralysis",
+        "resource hopping",
+        "toolchain friction",
+        "blocked progress",
+        "stagnation"
+      ],
+      "signals": [
+        "Next steps feel unclear: tasks seem risky or random because the “how” is missing.",
+        "Progress stalls since efforts don’t map to prerequisites or the right toolchain.",
+        "Confidence erodes; the person second-guesses choices despite having a clear goal.",
+        "Repeatedly “researching” instead of doing, or bouncing between resources without consolidation.",
+        "Destination is clear; path feels fuzzy or overcomplicated.",
+        "Frequent context switching across courses/tools without mastery.",
+        "Stalls on setup (tools/env) or “where to start” within a skill.",
+        "Repeatedly re-learning basics without durable retention or application."
+      ],
+      "requires_insights": [
+        "git.categories.knowledge_perception_mental_models",
+        "git.categories.learning_preferences_modalities",
+        "git.categories.pace_tolerance_chunk_size",
+        "git.categories.time_energy_rhythm"
+      ],
+      "anchors": [
+        "BND–GPP-LOW_SELF_KNOWLEDGE_POSITIONING",
+        "BND–GPP-LOW_SELF_KNOWLEDGE_POSITIONING-DESCRIPTION",
+        "BND–GPP-LOW_SELF_KNOWLEDGE_POSITIONING-APPROACH",
+        "BND–GPP-LOW_SELF_KNOWLEDGE_POSITIONING-CHARACTERISTICS",
+        "BND–GPP-LOW_SELF_KNOWLEDGE_POSITIONING-REASONS",
+        "BND–GPP-LOW_SELF_KNOWLEDGE_POSITIONING-SUMMARY"
+      ]
+    },{
+      "id": "gpp.cognitive_execution_constraints",
+      "title": "Cognitive execution constraints",
+      "synonyms": [
+        "mental fatigue",
+        "attention limits",
+        "performance barriers",
+        "short attention span",
+        "distraction-prone",
+        "energy depletion",
+        "burnout",
+        "low stamina",
+        "decision overload",
+        "choice fatigue",
+        "mental clutter",
+        "open loops"
+      ],
+      "signals": [
+        "Work quality and throughput vary day to day; progress feels fragile and easily disrupted.",
+        "Tasks that require setup, heavy context, or long focus windows stall; small interruptions cause resets.",
+        "People report frequent fatigue, decision overload, and good-day/bad-day swings that break streaks.",
+        "Outputs skew toward starts without finishes, with accumulating open loops and unfinished drafts.",
+        "Irregular practice streaks; many partial tasks and context switches.",
+        "Fatigue or decision overload after short sessions; avoidance of high-load tasks.",
+        "Frequent derailment by interruptions; difficulty regaining context.",
+        "Overly long blocks lead to burnout; overly small blocks feel meaningless."
+      ],
+      "requires_insights": [
+        "git.categories.time_energy_rhythm",
+        "git.categories.pace_tolerance_chunk_size",
+        "git.categories.learning_preferences_modalities",
+        "git.categories.definition_of_success_constraints_of_failure"
+      ],
+      "anchors": [
+        "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS",
+        "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-DESCRIPTION",
+        "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-APPROACH",
+        "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-CHARACTERISTICS",
+        "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-REASONS",
+        "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-SUMMARY"
+      ]
+    }, {
+      "id": "gpp.cognitive_execution_constraints",
+      "title": "Cognitive execution constraints",
+      "synonyms": [
+        "mental fatigue",
+        "attention limits",
+        "performance barriers",
+        "short attention span",
+        "distraction-prone",
+        "energy depletion",
+        "burnout",
+        "low stamina",
+        "decision overload",
+        "choice fatigue",
+        "mental clutter",
+        "open loops",
+        "unfinished tasks",
+        "incomplete work"
+      ],
+      "signals": [
+        "Work quality and throughput vary day to day; progress feels fragile and easily disrupted.",
+        "Tasks that require setup, heavy context, or long focus windows stall; small interruptions cause resets.",
+        "People report frequent fatigue, decision overload, and good day / bad day swings that break streaks.",
+        "Outputs skew toward starts without finishes, with accumulating open loops and unfinished drafts.",
+        "Irregular practice streaks; many partial tasks and context switches.",
+        "Fatigue or decision overload after short sessions; avoidance of high-load tasks.",
+        "Frequent derailment by interruptions; difficulty regaining context.",
+        "Overly long blocks lead to burnout; overly small blocks feel meaningless."
+      ],
+      "requires_insights": [
+        "git.categories.time_energy_rhythm",
+        "git.categories.pace_tolerance_chunk_size",
+        "git.categories.learning_preferences_modalities",
+        "git.categories.definition_of_success_constraints_of_failure"
+      ],
+      "anchors": [
+        "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS",
+        "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-DESCRIPTION",
+        "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-APPROACH",
+        "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-CHARACTERISTICS",
+        "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-REASONS",
+        "BND–GPP-COGNITIVE_EXECUTION_CONSTRAINTS-SUMMARY"
+      ]
+    }, {
+      "id": "gpp.capability_shortfall",
+      "title": "Capability shortfall",
+      "synonyms": [
+        "skill gap",
+        "execution deficit",
+        "ability mismatch",
+        "vague vision",
+        "lack of guidance",
+        "random tasks",
+        "unfocused actions",
+        "tooling friction",
+        "setup delays",
+        "environment blockers",
+        "weak conceptual frames",
+        "shallow models",
+        "poor scaffolds",
+        "stop–start cycles",
+        "inconsistent progress",
+        "stalled attempts"
+      ],
+      "signals": [
+        "Next steps feel arbitrary because strategy (the \"why/where\") and capability (the \"how/with what\") are both underspecified.",
+        "Effort disperses across courses, tools, or projects without a scaffolded prerequisite path.",
+        "Tooling/setup friction and weak conceptual frames cause slow starts and shallow transfer.",
+        "Confidence drops as attempts don’t map cleanly to the goal, creating stop–start cycles.",
+        "Goal is explicit, but path, tools, and required skills are unclear.",
+        "Repeated tool or environment setup stalls; switching between resources without consolidation.",
+        "Frequent \"studying\" without production-level outputs or retention.",
+        "Overwhelm when choosing among many tactics; tendency to abandon midway."
+      ],
+      "requires_insights": [
+        "git.categories.definition_of_success_constraints_of_failure",
+        "git.categories.knowledge_perception_mental_models",
+        "git.categories.learning_preferences_modalities",
+        "git.categories.pace_tolerance_chunk_size",
+        "git.categories.time_energy_rhythm"
+      ],
+      "anchors": [
+        "BND–GPP-CAPABILITY_SHORTFALL",
+        "BND–GPP-CAPABILITY_SHORTFALL-DESCRIPTION",
+        "BND–GPP-CAPABILITY_SHORTFALL-APPROACH",
+        "BND–GPP-CAPABILITY_SHORTFALL-CHARACTERISTICS",
+        "BND–GPP-CAPABILITY_SHORTFALL-REASONS",
+        "BND–GPP-CAPABILITY_SHORTFALL-SUMMARY"
+      ]
+    }, {
+      "id": "gpp.missing_learning_architecture",
+      "title": "Missing learning architecture",
+      "synonyms": [
+        "no curriculum",
+        "lack of framework",
+        "absent structure",
+        "consumption learning",
+        "passive study",
+        "unstructured tasks",
+        "random order",
+        "missing checkpoints",
+        "no milestones",
+        "no acceptance criteria",
+        "low confidence",
+        "poor retention",
+        "knowledge decay"
+      ],
+      "signals": [
+        "Learning is dominated by consumption (watch/read) without structured practice, review, or increasing challenge.",
+        "Tasks are not sequenced; effort scatters across topics with little consolidation or cumulative progress.",
+        "There are no clear acceptance criteria or checkpoints, so \"done\" is ambiguous and confidence stays low.",
+        "Without cadence or feedback, errors persist, motivation dips, and retention decays between sessions.",
+        "Lots of notes/bookmarks but few finished artifacts or demos.",
+        "Relearning basics; poor retention without spaced or deliberate practice.",
+        "No obvious \"leveling up\" path; difficulty ramps randomly or not at all.",
+        "Feedback is sporadic or absent; errors repeat across attempts."
+      ],
+      "requires_insights": [
+        "git.categories.definition_of_success_constraints_of_failure",
+        "git.categories.pace_tolerance_chunk_size",
+        "git.categories.time_energy_rhythm",
+        "git.categories.learning_preferences_modalities",
+        "git.categories.knowledge_perception_mental_models"
+      ],
+      "anchors": [
+        "BND–GPP-MISSING_LEARNING_ARCHITECTURE",
+        "BND–GPP-MISSING_LEARNING_ARCHITECTURE-DESCRIPTION",
+        "BND–GPP-MISSING_LEARNING_ARCHITECTURE-APPROACH",
+        "BND–GPP-MISSING_LEARNING_ARCHITECTURE-CHARACTERISTICS",
+        "BND–GPP-MISSING_LEARNING_ARCHITECTURE-REASONS",
+        "BND–GPP-MISSING_LEARNING_ARCHITECTURE-SUMMARY"
+      ]
+    }, {
+      "id": "gpp.poor_goal_incentive_alignment",
+      "title": "Poor goal–incentive alignment",
+      "synonyms": [
+        "misaligned objectives",
+        "incentive mismatch",
+        "habit–goal conflict",
+        "talk–do gap",
+        "intention–action gap",
+        "inconsistency",
+        "short-term optimization",
+        "immediate reward bias",
+        "comfort-first actions",
+        "conflicting cues",
+        "environmental distractions",
+        "misaligned triggers",
+        "motivation decay",
+        "loss of drive",
+        "dwindling focus",
+        "busyness without progress",
+        "false productivity",
+        "activity trap"
+      ],
+      "signals": [
+        "Day-to-day actions optimize for convenience, short-term rewards, or external pressures rather than the declared objective.",
+        "Cues in the environment (tools, people, schedules) reinforce conflicting behaviors, creating a persistent “talk–do” gap.",
+        "Progress feels slow or invisible, so motivation decays and attention drifts to easier, unrelated tasks.",
+        "The result is consistent busyness with little movement on the metrics that actually define success.",
+        "Clear goal statements but inconsistent daily behaviors and artifacts.",
+        "Preference for urgent/comfortable tasks over important/impactful ones.",
+        "Environment cues (apps, peers, workspace) steer attention away from the plan.",
+        "Progress metrics aren’t visible; motivation relies on willpower alone."
+      ],
+      "requires_insights": [
+        "git.categories.definition_of_success_constraints_of_failure",
+        "git.categories.time_energy_rhythm",
+        "git.categories.pace_tolerance_chunk_size",
+        "git.categories.learning_preferences_modalities",
+        "git.categories.knowledge_perception_mental_models"
+      ],
+      "anchors": [
+        "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT",
+        "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-DESCRIPTION",
+        "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-APPROACH",
+        "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-CHARACTERISTICS",
+        "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-REASONS",
+        "BND–GPP-POOR_GOAL_INCENTIVE_ALIGNMENT-SUMMARY"
+      ]
+    }
+  ]
+}

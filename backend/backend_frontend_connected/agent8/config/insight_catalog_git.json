@@ -1,0 +1,339 @@
+{
+  "version": "v0.5",
+  "fields": [
+    {
+      "id": "git.categories.learning_preferences_modalities",
+      "description": "Forms of content and activity types a user learns best from (visual, text, audio, hands-on), how active they want learning to be (watch/read vs. do/build), preferred social context (solo/pair/cohort), and which memory supports keep knowledge sticky (e.g., spaced repetition, mind maps, teach-backs).",
+      "impact": [
+        "Delivery format: chooses visual, text, audio, or hands-on as default medium.",
+        "Flow design: passive/exposure vs. exercise-first vs. project-first.",
+        "Collaboration model: solo vs. pair vs. cohort rituals.",
+        "Retention layer: spaced decks, maps, annotations, or teach-backs."
+      ],
+      "why_this_matters": [
+        "Fit-to-learner delivery reduces ramp time and rework.",
+        "Correct interactivity prevents boredom or overload.",
+        "Social context alignment increases accountability.",
+        "Right memory supports ensure durable skills."
+      ],
+      "causes_if_missing": [
+        "Format mismatch: wrong medium.",
+        "Activity mismatch: wrong interactivity.",
+        "Social mismatch: wrong collaboration style.",
+        "Recall decay: absent or wrong memory supports.",
+        "Note: If skipped, UPA can still plan but less optimal."
+      ],
+      "anchors": [
+        "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES",
+        "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES-DESCRIPTION",
+        "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES-CAPTURE",
+        "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES-IMPACT",
+        "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES-WHY_THIS_MATTERS",
+        "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES-CAUSES",
+        "BND–GIT-CATEGORIES-LEARNING_PREFERENCES_MODALITIES-MCQ"
+      ],
+      "children": [
+        {
+          "id": "git.categories.learning_preferences_modalities.mcq.primary_modality",
+          "type": "enum",
+          "values": [
+            "visual",
+            "text_first",
+            "audio",
+            "hands_on_interactive"
+          ],
+          "selection": { "min": 1, "max": 2 },
+          "critical": true
+        },
+        {
+          "id": "git.categories.learning_preferences_modalities.mcq.interactivity_level",
+          "type": "enum",
+          "values": [
+            "passive_first",
+            "exercise_first",
+            "project_first"
+          ],
+          "critical": true
+        },
+        {
+          "id": "git.categories.learning_preferences_modalities.mcq.social_context",
+          "type": "enum",
+          "values": [
+            "solo",
+            "pair",
+            "cohort_group"
+          ],
+          "critical": true
+        },
+        {
+          "id": "git.categories.learning_preferences_modalities.mcq.memory_supports",
+          "type": "enum",
+          "values": [
+            "spaced_repetition_flashcards",
+            "concept_maps_mind_maps",
+            "annotated_examples",
+            "teach_back"
+          ],
+          "selection": { "min": 1, "max": 2 },
+          "critical": true
+        }
+      ]
+    }, {
+      "id": "git.categories.definition_of_success_constraints_of_failure",
+      "description": "Captures what “done” truly means, who must accept it, time pressure (deadline profile), and non-negotiables that would make the plan unacceptable. Turns vague goals into measurable acceptance criteria and sets trade-off rules when time, scope, quality, or cost collide.",
+      "anchors": [
+        "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE",
+        "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE-DESCRIPTION",
+        "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE-CAPTURE",
+        "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE-SUCCESS_ARCHETYPE",
+        "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE-DEADLINE_PROFILE",
+        "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE-TRADE_OFF_PRIORITY",
+        "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE-FAILURE_CONSTRAINTS",
+        "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE-IMPACT",
+        "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE-WHY_THIS_MATTERS",
+        "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE-CAUSES",
+        "BND–GIT-CATEGORIES-DEFINITION_OF_SUCCESS_CONSTRAINTS_OF_FAILURE-MCQ"
+      ],
+      "impact": [
+        "Milestones & acceptance: converts “done” into checks and sign-offs.",
+        "Scheduling & buffers: deadline profile sets gates and buffers.",
+        "Scope shaping: trade-off priority decides cuts under pressure.",
+        "Risk controls: failure constraints drive QA/compliance/budget checks.",
+        "Review cadence: defines who reviews when and with what evidence."
+      ],
+      "why_this_matters": [
+        "Aligns the plan with the user’s real success definition.",
+        "Reduces rework by clarifying targets and approvers.",
+        "Improves forecast accuracy by matching effort to deadlines.",
+        "Protects non-negotiables, lowering risk.",
+        "Enables fast, principled decisions when constraints collide."
+      ],
+      "causes_if_missing": [
+        "Wrong success tests: passes internally, fails stakeholder/KPI.",
+        "Deadline slips from mismatched rigor.",
+        "Bad cuts if trade-offs aren’t pre-decided.",
+        "Compliance, quality, or budget surprises late.",
+        "Note: If skipped, UPA can still plan but less optimal."
+      ],
+      "capture_set": {
+        "priority": "top",
+        "count": 4
+      },
+      "children": [
+        {
+          "id": "git.categories.definition_of_success_constraints_of_failure.mcq.success_archetype",
+          "type": "enum",
+          "values": [
+            "deliverable_shipped",
+            "performance_target",
+            "proficiency_level",
+            "behavior_change",
+            "stakeholder_sign_off"
+          ],
+          "critical": true
+        },
+        {
+          "id": "git.categories.definition_of_success_constraints_of_failure.mcq.deadline_profile",
+          "type": "enum",
+          "values": [
+            "immediate_hard_lt_1_week",
+            "near_term_firm_1_4_weeks",
+            "mid_term_moderate_1_3_months",
+            "long_term_flexible_gt_3_months"
+          ],
+          "critical": true
+        },
+        {
+          "id": "git.categories.definition_of_success_constraints_of_failure.mcq.trade_off_priority",
+          "type": "enum",
+          "values": [
+            "time_first",
+            "quality_first",
+            "scope_first",
+            "cost_first"
+          ],
+          "critical": true
+        },
+        {
+          "id": "git.categories.definition_of_success_constraints_of_failure.mcq.failure_constraints",
+          "type": "enum",
+          "values": [
+            "deadline_miss",
+            "quality_bar_breach",
+            "budget_exceeded",
+            "compliance_breach",
+            "stakeholder_dissatisfaction"
+          ],
+          "selection": { "min": 0, "max": 2 },
+          "critical": true
+        }
+      ]
+    }, {
+      "id": "git.categories.time_energy_rhythm",
+      "description": "Captures weekly capacity, peak-focus windows, session stamina, and preferred cadence (steady vs. sprints vs. weekend-heavy vs. variable) so the plan can schedule hard tasks into high-energy slots, right-size steps to stamina, and add buffers that match real rhythms.",
+      "anchors": [
+        "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM",
+        "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM-DESCRIPTION",
+        "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM-CAPTURE",
+        "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM-CAPACITY_PROFILE",
+        "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM-PEAK_WINDOWS",
+        "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM-SESSION_LENGTH",
+        "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM-CADENCE_STYLE",
+        "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM-IMPACT",
+        "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM-WHY_THIS_MATTERS",
+        "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM-CAUSES",
+        "BND–GIT-CATEGORIES-TIME_ENERGY_RHYTHM-MCQ"
+      ],
+      "impact": [
+        "Scheduling: hard tasks in peak windows, right-sized blocks.",
+        "Scoping: match scope to weekly capacity and cadence style.",
+        "Cadence design: choose steady vs. sprint, with recovery buffers.",
+        "Risk control: variable schedules get modular tasks and checkpoints."
+      ],
+      "why_this_matters": [
+        "Prevents plans that look good on paper but fail in practice.",
+        "Reduces missed milestones by matching stamina and scope.",
+        "Increases quality by aligning work to sharp focus windows.",
+        "Builds sustainable momentum via a rhythm the user can keep."
+      ],
+      "causes_if_missing": [
+        "Overcommitment: scope exceeds capacity → slip and churn.",
+        "Mis-timed deep work: tasks land in low-energy windows.",
+        "Stamina mismatch: blocks too long/short reduce output.",
+        "Rhythm clash: forcing steady work on a sprint-style user (or vice versa).",
+        "Note: If skipped, UPA can still plan but with less optimal pacing."
+      ],
+      "capture_set": {
+        "priority": "top",
+        "count": 4
+      },
+      "children": [
+        {
+          "id": "git.categories.time_energy_rhythm.mcq.capacity_profile",
+          "type": "enum",
+          "values": [
+            "light_le_3h_week",
+            "moderate_4_8h_week",
+            "strong_9_15h_week",
+            "intensive_ge_16h_week"
+          ],
+          "critical": true
+        },
+        {
+          "id": "git.categories.time_energy_rhythm.mcq.peak_windows",
+          "type": "enum",
+          "values": [
+            "morning",
+            "midday",
+            "evening",
+            "night"
+          ],
+          "critical": true
+        },
+        {
+          "id": "git.categories.time_energy_rhythm.mcq.session_length_tolerance",
+          "type": "enum",
+          "values": [
+            "micro_10_20_min",
+            "standard_25_45_min",
+            "deep_60_90_min",
+            "marathon_ge_120_min"
+          ],
+          "critical": true
+        },
+        {
+          "id": "git.categories.time_energy_rhythm.mcq.cadence_style",
+          "type": "enum",
+          "values": [
+            "steady_daily",
+            "sprint_based",
+            "weekend_heavy",
+            "variable_on_call"
+          ],
+          "critical": true
+        }
+      ]
+    }, {
+      "id": "git.categories.pace_tolerance_chunk_size",
+      "description": "Captures the user’s comfort with pace: how fast difficulty/workload ramps up, preferred step size, parallel thread tolerance, and how often to checkpoint. Enables choosing step granularity, escalation curve, concurrency, and review rhythm to maintain momentum without overload.",
+      "anchors": [
+        "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE",
+        "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE-DESCRIPTION",
+        "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE-CAPTURE",
+        "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE-CHUNK_SIZE",
+        "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE-RAMP_RATE",
+        "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE-PARALLELISM",
+        "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE-CHECKPOINT_FREQUENCY",
+        "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE-IMPACT",
+        "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE-WHY_THIS_MATTERS",
+        "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE-CAUSES",
+        "BND–GIT-CATEGORIES-PACE_TOLERANCE_CHUNK_SIZE-MCQ"
+      ],
+      "impact": [
+        "Step design: match tasks to chunk size preference.",
+        "Escalation planning: set ramp rate for confidence vs. challenge.",
+        "WIP limits: align concurrency to tolerance.",
+        "Control loops: checkpoint cadence catches drift early."
+      ],
+      "why_this_matters": [
+        "Keeps cognitive load within safe bounds → higher throughput.",
+        "Preserves momentum by matching step size and ramp rate.",
+        "Reduces waste from context switching.",
+        "Enables faster course-correction with the right review rhythm."
+      ],
+      "causes_if_missing": [
+        "Overload or boredom from mismatched chunk size/ramp rate.",
+        "Thrash from too many concurrent threads or poor switches.",
+        "Late discovery of issues without checkpoints.",
+        "Note: UPA can still plan, but optimal pace/stability not guaranteed."
+      ],
+      "capture_set": {
+        "priority": "top",
+        "count": 4
+      },
+      "children": [
+        {
+          "id": "git.categories.pace_tolerance_chunk_size.mcq.chunk_size",
+          "type": "enum",
+          "values": [
+            "micro",
+            "small",
+            "medium",
+            "large"
+          ],
+          "critical": true
+        },
+        {
+          "id": "git.categories.pace_tolerance_chunk_size.mcq.ramp_rate",
+          "type": "enum",
+          "values": [
+            "conservative",
+            "balanced",
+            "aggressive"
+          ],
+          "critical": true
+        },
+        {
+          "id": "git.categories.pace_tolerance_chunk_size.mcq.parallelism",
+          "type": "enum",
+          "values": [
+            "single_thread",
+            "dual_thread",
+            "multi_thread"
+          ],
+          "critical": true
+        },
+        {
+          "id": "git.categories.pace_tolerance_chunk_size.mcq.checkpoint_frequency",
+          "type": "enum",
+          "values": [
+            "continuous",
+            "daily",
+            "weekly"
+          ],
+          "critical": true
+        }
+      ]
+    }
+  ]
+}

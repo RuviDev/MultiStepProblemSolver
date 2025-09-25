@@ -1,0 +1,21 @@
+{
+  "version": "user-fill",
+  "roles": [
+    {
+      "id": "data_analyst_jr",
+      "title": "Junior Data Analyst",
+      "synonyms": [
+        "junior data analyst",
+        "entry BI analyst"
+      ]
+    },
+    {
+      "id": "apm_jr",
+      "title": "Data scientist",
+      "synonyms": [
+        "junior data scientist",
+        "data scientist"
+      ]
+    }
+  ]
+}

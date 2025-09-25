@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "python_exe": "C:\\Users\\User\\Desktop\\rag_project\\.venv\\Scripts\\python.exe",
+  "entrypoint": "rag_step5_retrieve.py",
+  "rag_project_path": "C:\\Users\\User\\Desktop\\rag_project\\backend_connected_system2-running______FIXED",
+  
+  "default_threshold": "strict",
+  "default_k": 8,
+  "filters": {
+    "role_level": "junior",
+    "domain": "tech"
+  },
+  "timeout_sec": 180
+}

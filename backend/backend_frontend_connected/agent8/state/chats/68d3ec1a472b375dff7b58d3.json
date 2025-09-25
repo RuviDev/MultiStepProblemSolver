@@ -1,0 +1,427 @@
+{
+  "history_summary": "[2025-09-24T13:15:09.909883Z] user: Explain common capability gaps for junior data analysts and how to start closing them. [2025-09-24T13:16:53.311113Z] user: Ok, let's plan the next 3 months to become a junior data analyst. [2025-09-24T14:45:50.392417Z] user: Explain common capability gaps for junior data analysts and how to start closing them.",
+  "problem_records": [
+    {
+      "problem_id": "P-data_analyst_jr-20250924131451",
+      "employment_category": "data_analyst_jr",
+      "pain_points": [
+        "gpp.capability_shortfall"
+      ],
+      "pcc_snapshot": {
+        "format": "markdown",
+        "language": "en",
+        "tone": "neutral",
+        "length": "concise",
+        "target_tokens": 220,
+        "max_tokens": 500,
+        "structure": [
+          "Preface",
+          "Core Summary",
+          "Evidence",
+          "Checklist",
+          "Closer",
+          "Sources"
+        ],
+        "answerability": "partial_needs_insights",
+        "missing_fields": [
+          "git.categories.definition_of_success_constraints_of_failure.mcq.deadline_profile",
+          "git.categories.definition_of_success_constraints_of_failure.mcq.failure_constraints",
+          "git.categories.definition_of_success_constraints_of_failure.mcq.success_archetype",
+          "git.categories.definition_of_success_constraints_of_failure.mcq.trade_off_priority",
+          "git.categories.learning_preferences_modalities.mcq.interactivity_level",
+          "git.categories.learning_preferences_modalities.mcq.memory_supports",
+          "git.categories.learning_preferences_modalities.mcq.primary_modality",
+          "git.categories.learning_preferences_modalities.mcq.social_context",
+          "git.categories.pace_tolerance_chunk_size.mcq.checkpoint_frequency",
+          "git.categories.pace_tolerance_chunk_size.mcq.chunk_size",
+          "git.categories.pace_tolerance_chunk_size.mcq.parallelism",
+          "git.categories.pace_tolerance_chunk_size.mcq.ramp_rate",
+          "git.categories.time_energy_rhythm.mcq.cadence_style",
+          "git.categories.time_energy_rhythm.mcq.capacity_profile",
+          "git.categories.time_energy_rhythm.mcq.peak_windows",
+          "git.categories.time_energy_rhythm.mcq.session_length_tolerance"
+        ],
+        "retrieval": {
+          "mode": "vault_only",
+          "anchors_scope": [
+            {
+              "id": "gpp.capability_shortfall",
+              "prob": 0.945896152440977,
+              "raw": 15.0
+            },
+            {
+              "id": "gpp.poor_goal_incentive_alignment",
+              "prob": 0.047093396410478376,
+              "raw": 12.0
+            },
+            {
+              "id": "gpp.low_self_knowledge_positioning",
+              "prob": 0.00637339814178617,
+              "raw": 10.0
+            },
+            {
+              "id": "gpp.cognitive_execution_constraints",
+              "prob": 0.00031731280902072513,
+              "raw": 7.0
+            },
+            {
+              "id": "gpp.cognitive_execution_constraints",
+              "prob": 0.00031731280902072513,
+              "raw": 7.0
+            }
+          ],
+          "top_k": 6,
+          "rerank": true
+        },
+        "sul": {
+          "llm_enabled": true,
+          "max_calls": 1,
+          "model_hint": "local-small",
+          "cite_or_decline": true
+        },
+        "verifications": {
+          "must_cite": true,
+          "fact_check": "strict",
+          "reasoning_trace": "compact"
+        },
+        "style": {
+          "bullets_allowed": true,
+          "use_checklists": true,
+          "headers_from_structure": true
+        },
+        "citations": {
+          "required": true,
+          "style": "inline_brackets"
+        }
+      },
+      "mapping_confidence": 0.96,
+      "ambiguous": false,
+      "turns": 3,
+      "evidence_used": true,
+      "queued_categories": [],
+      "insights": {},
+      "last_updated": "2025-09-24T14:45:50.392417Z",
+      "evidence_history": [
+        {
+          "at": "2025-09-24T13:15:09.892385Z",
+          "items": [
+            {
+              "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-DESCRIPTION",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-REASONS",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-SUMMARY",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND-SCOPE-OVERVIEW",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND-SCOPE-BOUNDARY",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-APPROACH",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            }
+          ]
+        },
+        {
+          "at": "2025-09-24T13:16:53.287040Z",
+          "items": [
+            {
+              "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-DESCRIPTION",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-SUMMARY",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-REASONS",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND-SCOPE-OVERVIEW",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND-SCOPE-BOUNDARY",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            }
+          ]
+        },
+        {
+          "at": "2025-09-24T14:45:50.375863Z",
+          "items": [
+            {
+              "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-DESCRIPTION",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-REASONS",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-SUMMARY",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND-SCOPE-OVERVIEW",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND-SCOPE-BOUNDARY",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            },
+            {
+              "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-APPROACH",
+              "score": null,
+              "snippet": "",
+              "source_doc": "Research Article 03.pdf",
+              "page": null
+            }
+          ]
+        }
+      ],
+      "last_evidence_pack": [
+        {
+          "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-DESCRIPTION",
+          "score": null,
+          "snippet": "",
+          "source_doc": "Research Article 03.pdf",
+          "page": null
+        },
+        {
+          "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-REASONS",
+          "score": null,
+          "snippet": "",
+          "source_doc": "Research Article 03.pdf",
+          "page": null
+        },
+        {
+          "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-SUMMARY",
+          "score": null,
+          "snippet": "",
+          "source_doc": "Research Article 03.pdf",
+          "page": null
+        },
+        {
+          "anchor_id": "BND-SCOPE-OVERVIEW",
+          "score": null,
+          "snippet": "",
+          "source_doc": "Research Article 03.pdf",
+          "page": null
+        },
+        {
+          "anchor_id": "BND-SCOPE-BOUNDARY",
+          "score": null,
+          "snippet": "",
+          "source_doc": "Research Article 03.pdf",
+          "page": null
+        },
+        {
+          "anchor_id": "BND–GPP-CAPABILITY_SHORTFALL-APPROACH",
+          "score": null,
+          "snippet": "",
+          "source_doc": "Research Article 03.pdf",
+          "page": null
+        }
+      ],
+      "dialogue_snippets": [
+        {
+          "at": "2025-09-24T13:15:09.909883Z",
+          "prompt": "Explain common capability gaps for junior data analysts and how to start closing them.",
+          "employment_category": "data_analyst_jr",
+          "pain_points": [
+            "gpp.capability_shortfall"
+          ],
+          "mapping_confidence": 0.938,
+          "answerability": "partial_needs_insights",
+          "missing_fields": [
+            "git.categories.definition_of_success_constraints_of_failure.mcq.deadline_profile",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.failure_constraints",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.success_archetype",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.trade_off_priority",
+            "git.categories.learning_preferences_modalities.mcq.interactivity_level",
+            "git.categories.learning_preferences_modalities.mcq.memory_supports",
+            "git.categories.learning_preferences_modalities.mcq.primary_modality",
+            "git.categories.learning_preferences_modalities.mcq.social_context",
+            "git.categories.pace_tolerance_chunk_size.mcq.checkpoint_frequency",
+            "git.categories.pace_tolerance_chunk_size.mcq.chunk_size",
+            "git.categories.pace_tolerance_chunk_size.mcq.parallelism",
+            "git.categories.pace_tolerance_chunk_size.mcq.ramp_rate",
+            "git.categories.time_energy_rhythm.mcq.cadence_style",
+            "git.categories.time_energy_rhythm.mcq.capacity_profile",
+            "git.categories.time_energy_rhythm.mcq.peak_windows",
+            "git.categories.time_energy_rhythm.mcq.session_length_tolerance"
+          ],
+          "survey_len": 16,
+          "evidence_anchors": [
+            "BND–GPP-CAPABILITY_SHORTFALL-DESCRIPTION",
+            "BND–GPP-CAPABILITY_SHORTFALL-REASONS",
+            "BND–GPP-CAPABILITY_SHORTFALL-SUMMARY",
+            "BND-SCOPE-OVERVIEW",
+            "BND-SCOPE-BOUNDARY",
+            "BND–GPP-CAPABILITY_SHORTFALL-APPROACH"
+          ]
+        },
+        {
+          "at": "2025-09-24T13:16:53.311113Z",
+          "prompt": "Ok, let's plan the next 3 months to become a junior data analyst.",
+          "employment_category": "data_analyst_jr",
+          "pain_points": [
+            "gpp.capability_shortfall"
+          ],
+          "mapping_confidence": 0.967,
+          "answerability": "partial_needs_insights",
+          "missing_fields": [
+            "git.categories.definition_of_success_constraints_of_failure.mcq.deadline_profile",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.failure_constraints",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.success_archetype",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.trade_off_priority",
+            "git.categories.learning_preferences_modalities.mcq.interactivity_level",
+            "git.categories.learning_preferences_modalities.mcq.memory_supports",
+            "git.categories.learning_preferences_modalities.mcq.primary_modality",
+            "git.categories.learning_preferences_modalities.mcq.social_context",
+            "git.categories.pace_tolerance_chunk_size.mcq.checkpoint_frequency",
+            "git.categories.pace_tolerance_chunk_size.mcq.chunk_size",
+            "git.categories.pace_tolerance_chunk_size.mcq.parallelism",
+            "git.categories.pace_tolerance_chunk_size.mcq.ramp_rate",
+            "git.categories.time_energy_rhythm.mcq.cadence_style",
+            "git.categories.time_energy_rhythm.mcq.capacity_profile",
+            "git.categories.time_energy_rhythm.mcq.peak_windows",
+            "git.categories.time_energy_rhythm.mcq.session_length_tolerance"
+          ],
+          "survey_len": 16,
+          "evidence_anchors": [
+            "BND–GPP-CAPABILITY_SHORTFALL-DESCRIPTION",
+            "BND–GPP-CAPABILITY_SHORTFALL-SUMMARY",
+            "BND–ECT-DATA_SCIENTIST-SKILL-MATRIX",
+            "BND–GPP-CAPABILITY_SHORTFALL-REASONS",
+            "BND-SCOPE-OVERVIEW",
+            "BND-SCOPE-BOUNDARY"
+          ]
+        },
+        {
+          "at": "2025-09-24T14:45:50.392417Z",
+          "prompt": "Explain common capability gaps for junior data analysts and how to start closing them.",
+          "employment_category": "data_analyst_jr",
+          "pain_points": [
+            "gpp.capability_shortfall"
+          ],
+          "mapping_confidence": 0.967,
+          "answerability": "partial_needs_insights",
+          "missing_fields": [
+            "git.categories.definition_of_success_constraints_of_failure.mcq.deadline_profile",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.failure_constraints",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.success_archetype",
+            "git.categories.definition_of_success_constraints_of_failure.mcq.trade_off_priority",
+            "git.categories.learning_preferences_modalities.mcq.interactivity_level",
+            "git.categories.learning_preferences_modalities.mcq.memory_supports",
+            "git.categories.learning_preferences_modalities.mcq.primary_modality",
+            "git.categories.learning_preferences_modalities.mcq.social_context",
+            "git.categories.pace_tolerance_chunk_size.mcq.checkpoint_frequency",
+            "git.categories.pace_tolerance_chunk_size.mcq.chunk_size",
+            "git.categories.pace_tolerance_chunk_size.mcq.parallelism",
+            "git.categories.pace_tolerance_chunk_size.mcq.ramp_rate",
+            "git.categories.time_energy_rhythm.mcq.cadence_style",
+            "git.categories.time_energy_rhythm.mcq.capacity_profile",
+            "git.categories.time_energy_rhythm.mcq.peak_windows",
+            "git.categories.time_energy_rhythm.mcq.session_length_tolerance"
+          ],
+          "survey_len": 16,
+          "evidence_anchors": [
+            "BND–GPP-CAPABILITY_SHORTFALL-DESCRIPTION",
+            "BND–GPP-CAPABILITY_SHORTFALL-REASONS",
+            "BND–GPP-CAPABILITY_SHORTFALL-SUMMARY",
+            "BND-SCOPE-OVERVIEW",
+            "BND-SCOPE-BOUNDARY",
+            "BND–GPP-CAPABILITY_SHORTFALL-APPROACH"
+          ]
+        }
+      ],
+      "planning_brief": "Role: data_analyst_jr | Pain points: Capability shortfall | Insights: — | Evidence anchors: BND–GPP-CAPABILITY_SHORTFALL-DESCRIPTION, BND–GPP-CAPABILITY_SHORTFALL-REASONS, BND–GPP-CAPABILITY_SHORTFALL-SUMMARY, BND-SCOPE-OVERVIEW",
+      "generation_history": [
+        {
+          "provider": "openai"
+        },
+        {
+          "provider": "openai"
+        },
+        {
+          "provider": "openai"
+        }
+      ],
+      "last_response": {
+        "provider": "openai",
+        "pcc_answerability": "partial_needs_insights",
+        "markdown": "# Preface\nIn the field of data analysis, junior analysts often encounter various capability gaps that can hinder their effectiveness and career progression. Understanding these gaps and how to address them is crucial for professional development.\n\n# Core Summary\nCommon capability gaps for junior data analysts typically include a lack of advanced analytical skills, insufficient knowledge of data visualization tools, and limited experience with programming languages relevant to data analysis. These gaps can stem from inadequate training, a lack of practical experience, or insufficient exposure to real-world data scenarios. To begin closing these gaps, junior analysts can engage in targeted learning, seek mentorship, and practice their skills through projects that challenge their current abilities.\n\n# Evidence\nThe capability shortfalls faced by junior data analysts can be attributed to several reasons, including limited exposure to complex data sets and insufficient training in advanced analytical techniques [BND–GPP-CAPABILITY_SHORTFALL-REASONS]. Addressing these gaps involves a structured approach that emphasizes skill development and practical application [BND–GPP-CAPABILITY_SHORTFALL-APPROACH]. \n\n# Checklist\n- Identify specific areas of weakness in analytical skills.\n- Explore training resources for data visualization and programming.\n- Seek mentorship from experienced analysts.\n- Engage in practical projects to apply learned skills.\n\n# Closer\nBy recognizing and addressing these capability gaps, junior data analysts can enhance their skill sets and improve their contributions to their teams. Continuous learning and practical experience are key to overcoming these challenges.\n\n# Sources\n- [BND–GPP-CAPABILITY_SHORTFALL-DESCRIPTION]\n- [BND–GPP-CAPABILITY_SHORTFALL-REASONS]\n- [BND–GPP-CAPABILITY_SHORTFALL-SUMMARY]\n- [BND–GPP-CAPABILITY_SHORTFALL-APPROACH]"
+      },
+      "asked_fields": [
+        "git.categories.definition_of_success_constraints_of_failure.mcq.deadline_profile",
+        "git.categories.definition_of_success_constraints_of_failure.mcq.failure_constraints"
+      ]
+    }
+  ]
+}
