@@ -1,0 +1,14 @@
+{
+  "target_tokens": 800,
+  "max_tokens": 1100,
+  "min_tokens": 150,
+  "overlap_tokens": 80,
+  "include_headings_in_text": false,
+
+  "embed_with_breadcrumbs": true,
+  "breadcrumb_depth": 2,
+  "breadcrumb_joiner": " > ",
+
+  "break_on_heading_level": 2
+}
+

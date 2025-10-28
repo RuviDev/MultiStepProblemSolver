@@ -1,0 +1,8 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "batch_size": 128,
+  "vec_dim": 384,
+  "normalize_vectors": true,
+  "use_embedding_text": true,
+  "built_at": "2025-10-16T13:45:37.999394Z"
+}

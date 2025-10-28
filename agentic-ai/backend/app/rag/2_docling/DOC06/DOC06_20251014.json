@@ -1,0 +1,1463 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "problem_planning_Doc05",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13395943952910146419,
+    "filename": "problem_planning_Doc05.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 804.7200439453126,
+            "r": 264.12,
+            "b": 787.9200439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "How problem is planned to be solved",
+      "text": "How problem is planned to be solved",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 776.1120439453125,
+            "r": 103.76,
+            "b": 760.6560439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Summary -",
+      "text": "Summary -",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 757.0300439453125,
+            "r": 559.814,
+            "b": 697.3900439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            349
+          ]
+        }
+      ],
+      "orig": "Planning is the fundamental management function-setting goals, defining actions to achieve them, and organizing the resources and efforts required. By thinking ahead, planning creates a roadmap to bridge the gap between your current situation and where you want to be. The User Planning Agent carries out planning based on a defined set of criteria.",
+      "text": "Planning is the fundamental management function-setting goals, defining actions to achieve them, and organizing the resources and efforts required. By thinking ahead, planning creates a roadmap to bridge the gap between your current situation and where you want to be. The User Planning Agent carries out planning based on a defined set of criteria."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 686.3320439453125,
+            "r": 203.39,
+            "b": 670.8760439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Why this criteria is Important",
+      "text": "Why this criteria is Important",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 667.3900439453125,
+            "r": 549.701,
+            "b": 639.1900439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "· Direction and purpose / goal-oriented: Planning gives a clear sense of direction and purpose, replacing aimless activity with focused effort toward common goals.",
+      "text": "Direction and purpose / goal-oriented: Planning gives a clear sense of direction and purpose, replacing aimless activity with focused effort toward common goals.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 636.1900439453126,
+            "r": 535.043,
+            "b": 607.8700439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "· Insight / behaviour-oriented: Planning is personalized using insights obtained from the user and analyzed to decide the most effective learning mechanism.",
+      "text": "Insight / behaviour-oriented: Planning is personalized using insights obtained from the user and analyzed to decide the most effective learning mechanism.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 604.8700439453125,
+            "r": 558.5,
+            "b": 560.9200439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            271
+          ]
+        }
+      ],
+      "orig": "· Evidence-based: Insights are considered against proven theories from research papers and books to decide the mechanisms by which skills should be achieved. Based on the correct theories and available resources/materials, a strategy is built to solve the user's problem.",
+      "text": "Evidence-based: Insights are considered against proven theories from research papers and books to decide the mechanisms by which skills should be achieved. Based on the correct theories and available resources/materials, a strategy is built to solve the user's problem.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 557.9200439453125,
+            "r": 558.239,
+            "b": 529.6000439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "· Facilitates decision-making: A well-defined plan provides a framework for making consistent, informed decisions aligned with long-term objectives.",
+      "text": "Facilitates decision-making: A well-defined plan provides a framework for making consistent, informed decisions aligned with long-term objectives.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 518.5420439453126,
+            "r": 164.649,
+            "b": 503.08604394531255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "How Plans Are Decided",
+      "text": "How Plans Are Decided",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 499.48004394531256,
+            "r": 559.458,
+            "b": 439.8400439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            396
+          ]
+        }
+      ],
+      "orig": "UPA follows a clear set of criteria before planning any problem. Necessary data is collected and fed into the agent in real time; based on these criteria, it decides how the plan should be made. The decision depends on the factors below; if a plan is not made with respect to these criteria, the effectiveness of planning and execution will be low, and users may struggle to reach the final goal.",
+      "text": "UPA follows a clear set of criteria before planning any problem. Necessary data is collected and fed into the agent in real time; based on these criteria, it decides how the plan should be made. The decision depends on the factors below; if a plan is not made with respect to these criteria, the effectiveness of planning and execution will be low, and users may struggle to reach the final goal."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 428.92004394531256,
+            "r": 413.18,
+            "b": 416.32004394531253,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Criteria One - User Identification Agent (UIA): Collecting Necessary Insights/Data",
+      "text": "Criteria One - User Identification Agent (UIA): Collecting Necessary Insights/Data",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 413.32004394531253,
+            "r": 559.729,
+            "b": 353.66004394531257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            430
+          ]
+        }
+      ],
+      "orig": "UIA transforms raw data into actionable knowledge, providing clarity, foresight, and direction for better decisionmaking, risk mitigation, and opportunity identification-ultimately ensuring a plan that is both effective and executable. Insights are split into two sections: general insights and problem-oriented insights . Based on these, we conclude the final goal and user-specific factors needed to provide a personalized plan.",
+      "text": "UIA transforms raw data into actionable knowledge, providing clarity, foresight, and direction for better decisionmaking, risk mitigation, and opportunity identification-ultimately ensuring a plan that is both effective and executable. Insights are split into two sections: general insights and problem-oriented insights . Based on these, we conclude the final goal and user-specific factors needed to provide a personalized plan."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 342.74004394531255,
+            "r": 147.813,
+            "b": 330.1400439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "1. General insights",
+      "text": "1. General insights",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 327.1400439453125,
+            "r": 536.714,
+            "b": 283.10004394531256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "Description: These are gathered in advance to shape plan structure based on the user's strengths and weaknesses. They may also map to each pain point. These can later be refined as 'evidence-based insights' derived from how the user behaves on the platform.",
+      "text": "Description: These are gathered in advance to shape plan structure based on the user's strengths and weaknesses. They may also map to each pain point. These can later be refined as 'evidence-based insights' derived from how the user behaves on the platform."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 272.1800439453125,
+            "r": 552.403,
+            "b": 212.5400439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            451
+          ]
+        }
+      ],
+      "orig": "These are durable, cross-problem facts about the user that determine how any plan should be built-tone, pacing, format, checkpoints, and guardrails. Unlike problem-specific inputs, general insights change slowly and can be reused across tasks. UIA collects them (and refreshes periodically), then UPA uses them to pick the right strategy (example-first vs theory-first), cadence (sprints vs steady drip), and level of support (hands-on vs autonomous).",
+      "text": "These are durable, cross-problem facts about the user that determine how any plan should be built-tone, pacing, format, checkpoints, and guardrails. Unlike problem-specific inputs, general insights change slowly and can be reused across tasks. UIA collects them (and refreshes periodically), then UPA uses them to pick the right strategy (example-first vs theory-first), cadence (sprints vs steady drip), and level of support (hands-on vs autonomous)."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 201.50004394531254,
+            "r": 159.777,
+            "b": 188.90004394531252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "General Insight Categories",
+      "text": "General Insight Categories",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 177.95004394531247,
+            "r": 257.352,
+            "b": 165.35004394531256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "1. Knowledge perception & mental models",
+      "text": "Knowledge perception & mental models",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 162.35004394531256,
+            "r": 537.74,
+            "b": 134.15004394531252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "· Capture: How the user believes knowledge is acquired/validated; preferred reasoning path (inductive examples → rules vs deductive rules → applications); tolerance for ambiguity.",
+      "text": "Capture: How the user believes knowledge is acquired/validated; preferred reasoning path (inductive examples → rules vs deductive rules → applications); tolerance for ambiguity.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 131.0300439453125,
+            "r": 524.306,
+            "b": 102.71004394531258,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "· Plan impact: Choose example-led vs concept-led sequencing; include proofs/derivations vs quick heuristics; set expectation for exploration vs certainty.",
+      "text": "Plan impact: Choose example-led vs concept-led sequencing; include proofs/derivations vs quick heuristics; set expectation for exploration vs certainty.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 91.79404394531252,
+            "r": 230.946,
+            "b": 79.1940439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "2. Learning preferences & modalities",
+      "text": "Learning preferences & modalities",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.024,
+            "t": 76.1940439453125,
+            "r": 545.446,
+            "b": 47.99404394531257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "· Capture: Visual/text/audio/interactive bias; solo vs social learning; note-taking style; memory supports that work (spaced repetition, mind maps).",
+      "text": "Capture: Visual/text/audio/interactive bias; solo vs social learning; note-taking style; memory supports that work (spaced repetition, mind maps).",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 805.0500439453125,
+            "r": 539.809,
+            "b": 776.7300439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "· Plan impact: Choose delivery artifacts (diagram packs, short videos, hands-on labs); embed memory prompts vs project-based tasks.",
+      "text": "Plan impact: Choose delivery artifacts (diagram packs, short videos, hands-on labs); embed memory prompts vs project-based tasks.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 765.8100439453125,
+            "r": 274.389,
+            "b": 753.2100439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "3. Definition of success & constraints of failure",
+      "text": "3. Definition of success & constraints of failure",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 750.0700439453126,
+            "r": 547.676,
+            "b": 737.4700439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "· Capture: What success looks like (qualitative/quantitative); unacceptable outcomes; deadline pressure.",
+      "text": "Capture: What success looks like (qualitative/quantitative); unacceptable outcomes; deadline pressure.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 734.4700439453126,
+            "r": 550.648,
+            "b": 706.1500439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "· Plan impact: Convert to measurable checkpoints; prioritize must-haves; pick conservative vs aggressive path.",
+      "text": "Plan impact: Convert to measurable checkpoints; prioritize must-haves; pick conservative vs aggressive path.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 695.2300439453126,
+            "r": 191.913,
+            "b": 682.6300439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "4. Time, energy, and rhythm",
+      "text": "Time, energy, and rhythm",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 679.5100439453125,
+            "r": 502.187,
+            "b": 666.9100439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "· Capture: Weekly availability, deep-work windows, chronotype, variability (e.g., weekends only).",
+      "text": "Capture: Weekly availability, deep-work windows, chronotype, variability (e.g., weekends only).",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 663.9100439453125,
+            "r": 557.059,
+            "b": 635.5900439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "· Plan impact: Slot hard tasks into high-energy windows; choose sprint blocks vs micro-lessons; add catchup buffers.",
+      "text": "Plan impact: Slot hard tasks into high-energy windows; choose sprint blocks vs micro-lessons; add catchup buffers.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 624.6700439453125,
+            "r": 200.994,
+            "b": 612.0700439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "5. Pace tolerance & chunk size",
+      "text": "5. Pace tolerance & chunk size",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 609.0700439453126,
+            "r": 392.653,
+            "b": 596.4700439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "· Capture: Preferred step size, cognitive load limits, context-switch cost.",
+      "text": "Capture: Preferred step size, cognitive load limits, context-switch cost.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 593.2300439453126,
+            "r": 467.567,
+            "b": 580.6300439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "· Plan impact: Set task granularity; number of parallel threads; frequency of summaries.",
+      "text": "Plan impact: Set task granularity; number of parallel threads; frequency of summaries.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 569.6800439453125,
+            "r": 194.609,
+            "b": 557.0800439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "6. Problem-oriented insights",
+      "text": "6. Problem-oriented insights",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 554.0800439453126,
+            "r": 554.852,
+            "b": 494.44004394531254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            380
+          ]
+        }
+      ],
+      "orig": "Description: Time-bound, task-specific facts that UIA gathers to solve a particular problem (as opposed to reusable general traits). They define the current skill matrix of the user within the chosen employment category, the goal, and the surrounding pain points-so the plan is feasible, targeted, and verifiable. This builds a deeper understanding of the user's path to the goal.",
+      "text": "Description: Time-bound, task-specific facts that UIA gathers to solve a particular problem (as opposed to reusable general traits). They define the current skill matrix of the user within the chosen employment category, the goal, and the surrounding pain points-so the plan is feasible, targeted, and verifiable. This builds a deeper understanding of the user's path to the goal."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.0,
+            "t": 483.4000439453125,
+            "r": 207.816,
+            "b": 470.80004394531255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Problem-Oriented Insight Categories",
+      "text": "Problem-Oriented Insight Categories",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 459.88004394531254,
+            "r": 227.346,
+            "b": 447.2800439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "1. Targeted outcome of the problem",
+      "text": "1. Targeted outcome of the problem",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 444.2800439453125,
+            "r": 561.453,
+            "b": 415.8400439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            153
+          ]
+        }
+      ],
+      "orig": "· Defines the goal or what must be achieved at the end. Identifies the employment category and the specific sections within it that need to be addressed.",
+      "text": "Defines the goal or what must be achieved at the end. Identifies the employment category and the specific sections within it that need to be addressed.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 404.92004394531256,
+            "r": 161.295,
+            "b": 392.32004394531253,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "2. Current skill matrix",
+      "text": "Current skill matrix",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.024,
+            "t": 389.32004394531253,
+            "r": 537.792,
+            "b": 360.98004394531256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "· Establishes the user's current skills versus the target role requirements; highlights strengths, gaps, and priority areas for upskilling.",
+      "text": "Establishes the user's current skills versus the target role requirements; highlights strengths, gaps, and priority areas for upskilling.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.0,
+            "t": 350.06004394531254,
+            "r": 553.554,
+            "b": 274.8200439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            498
+          ]
+        }
+      ],
+      "orig": "Because they are scoped to a single objective, problem-oriented insights operate on a shorter lifecycle: they must be verified, timestamped, and refreshed as the situation changes. They often include unknowns or hypotheses that the plan should test (e.g., 'we think X is the bottleneck'), plus edge cases and failure modes to guard against. UIA translates these particulars into actionable requirements and constraints for UPA so the planner can choose the right strategy, sequence, and safeguards.",
+      "text": "Because they are scoped to a single objective, problem-oriented insights operate on a shorter lifecycle: they must be verified, timestamped, and refreshed as the situation changes. They often include unknowns or hypotheses that the plan should test (e.g., 'we think X is the bottleneck'), plus edge cases and failure modes to guard against. UIA translates these particulars into actionable requirements and constraints for UPA so the planner can choose the right strategy, sequence, and safeguards."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.0,
+            "t": 263.9000439453125,
+            "r": 305.291,
+            "b": 251.3000439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Criteria Two - Process Friction Scan → Making the Process",
+      "text": "Criteria Two - Process Friction Scan → Making the Process",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.0,
+            "t": 248.1800439453125,
+            "r": 553.358,
+            "b": 188.5400439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            437
+          ]
+        }
+      ],
+      "orig": "Based on general and problem-oriented insights, UPA decides where to begin and how to begin to help the user achieve the goal. These insights are analyzed to determine the best-known theories and strategies (from research and books) to grow the intelligence required for the chosen employment category. The system trains users to think outside the box-beyond mere resource consumption-by creating a detailed, start-to-finish process map.",
+      "text": "Based on general and problem-oriented insights, UPA decides where to begin and how to begin to help the user achieve the goal. These insights are analyzed to determine the best-known theories and strategies (from research and books) to grow the intelligence required for the chosen employment category. The system trains users to think outside the box-beyond mere resource consumption-by creating a detailed, start-to-finish process map."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.0,
+            "t": 177.59004394531257,
+            "r": 283.43,
+            "b": 164.99004394531255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Criteria Three - Plan Fine-Tuning During the Lifecycle",
+      "text": "Criteria Three - Plan Fine-Tuning During the Lifecycle",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.0,
+            "t": 161.99004394531255,
+            "r": 557.249,
+            "b": 102.35004394531256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            369
+          ]
+        }
+      ],
+      "orig": "A Verification Agent interacts with the executing process throughout its lifecycle. It gathers feedback automatically based on user behavior and evidence to power the suggestion engine, which enhances the plan-and thus execution-without disrupting ongoing work. Adjustments are driven by evidence collected from current behavior to keep the plan adaptive and effective.",
+      "text": "A Verification Agent interacts with the executing process throughout its lifecycle. It gathers feedback automatically based on user behavior and evidence to power the suggestion engine, which enhances the plan-and thus execution-without disrupting ongoing work. Adjustments are driven by evidence collected from current behavior to keep the plan adaptive and effective."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9200439453125
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9200439453125
+      },
+      "page_no": 2
+    }
+  }
+}

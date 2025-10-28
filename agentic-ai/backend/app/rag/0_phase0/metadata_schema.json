@@ -1,0 +1,44 @@
+{
+  "required_fields": [
+    "chunk_id",
+    "doc_id",
+    "version",
+    "page_start",
+    "page_end",
+    "section_path",
+    "chunk_type",
+    "created_at"
+  ],
+  "enums": {
+    "chunk_type": [
+      "text",
+      "table",
+      "figure",
+      "other"
+    ],
+    "doc_id": [
+      "DOC01",
+      "DOC02",
+      "DOC03",
+      "DOC04",
+      "DOC05",
+      "DOC06"
+    ]
+  },
+  "optional_fields": [
+    "topic_tags",
+    "entity_tags",
+    "batch_id",
+    "insight_id",
+    "source_bbox"
+  ],
+  "filter_fields": [
+    "doc_id",
+    "batch_id",
+    "entity_tags",
+    "section_path",
+    "chunk_type",
+    "version"
+  ],
+  "notes": "Do not fill optional fields until we inspect content in Phase 1."
+}

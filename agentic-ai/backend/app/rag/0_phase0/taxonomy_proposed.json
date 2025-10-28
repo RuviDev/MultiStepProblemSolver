@@ -1,0 +1,431 @@
+{
+  "acronyms": {
+    "DS": "",
+    "CI": "",
+    "PR": "",
+    "EDA": "",
+    "CV": "",
+    "AUC": "",
+    "WIP": "",
+    "BI": "",
+    "PII": "",
+    "CD": "",
+    "SLA": "",
+    "PM": "",
+    "RMSE": "",
+    "CUPED": "",
+    "README": "",
+    "CDC": "",
+    "MAPE": "",
+    "ROC": "",
+    "DB": "",
+    "SOTA": "",
+    "MLE": "",
+    "MDE": "",
+    "LTV": "",
+    "MAE": "",
+    "NER": "",
+    "TS": "",
+    "DVC": "",
+    "TF": "",
+    "CLI": "",
+    "OCR": "",
+    "DL": "",
+    "IC": "",
+    "BLUF": "",
+    "AM": "",
+    "SOP": "",
+    "UIA": "",
+    "PHI": "",
+    "CTR": "",
+    "MAP": "",
+    "NDCG": "",
+    "QA": "",
+    "SELECT": "",
+    "PCA": "",
+    "GBM": "",
+    "WAPE": "",
+    "REST": "",
+    "ARIMA": "",
+    "SHAP": "",
+    "ONNX": "",
+    "UPA": ""
+  },
+  "batches": {
+    "pattern": "",
+    "min": null,
+    "max": null
+  },
+  "synonyms": {},
+  "per_doc_snapshot": {
+    "DOC01": {
+      "top_acronyms": [
+        [
+          "DS",
+          16
+        ],
+        [
+          "EDA",
+          14
+        ],
+        [
+          "CI",
+          10
+        ],
+        [
+          "BI",
+          10
+        ],
+        [
+          "CV",
+          9
+        ],
+        [
+          "AUC",
+          6
+        ],
+        [
+          "TS",
+          5
+        ],
+        [
+          "CD",
+          5
+        ],
+        [
+          "PHI",
+          4
+        ],
+        [
+          "GBM",
+          4
+        ],
+        [
+          "CDC",
+          3
+        ],
+        [
+          "RMSE",
+          3
+        ],
+        [
+          "PII",
+          3
+        ],
+        [
+          "MAE",
+          3
+        ],
+        [
+          "MAPE",
+          3
+        ],
+        [
+          "NDCG",
+          3
+        ],
+        [
+          "WAPE",
+          3
+        ],
+        [
+          "LTV",
+          2
+        ],
+        [
+          "CTR",
+          2
+        ],
+        [
+          "NER",
+          2
+        ]
+      ],
+      "found_batches": [],
+      "chars_scanned": 43608
+    },
+    "DOC02": {
+      "top_acronyms": [
+        [
+          "DS",
+          14
+        ],
+        [
+          "EDA",
+          8
+        ],
+        [
+          "CI",
+          7
+        ],
+        [
+          "CV",
+          7
+        ],
+        [
+          "AUC",
+          6
+        ],
+        [
+          "MDE",
+          6
+        ],
+        [
+          "CUPED",
+          6
+        ],
+        [
+          "BI",
+          6
+        ],
+        [
+          "PM",
+          5
+        ],
+        [
+          "PII",
+          5
+        ],
+        [
+          "IC",
+          5
+        ],
+        [
+          "MLE",
+          4
+        ],
+        [
+          "PR",
+          4
+        ],
+        [
+          "RMSE",
+          4
+        ],
+        [
+          "OCR",
+          4
+        ],
+        [
+          "LTV",
+          3
+        ],
+        [
+          "DL",
+          3
+        ],
+        [
+          "NER",
+          3
+        ],
+        [
+          "ONNX",
+          3
+        ],
+        [
+          "SOTA",
+          3
+        ]
+      ],
+      "found_batches": [],
+      "chars_scanned": 47939
+    },
+    "DOC03": {
+      "top_acronyms": [
+        [
+          "PII",
+          7
+        ],
+        [
+          "CI",
+          7
+        ],
+        [
+          "AUC",
+          6
+        ],
+        [
+          "CD",
+          5
+        ],
+        [
+          "PR",
+          4
+        ],
+        [
+          "SLA",
+          3
+        ],
+        [
+          "SVD",
+          3
+        ],
+        [
+          "PEFT",
+          3
+        ],
+        [
+          "DB",
+          2
+        ],
+        [
+          "EDA",
+          2
+        ],
+        [
+          "REST",
+          2
+        ],
+        [
+          "DVC",
+          2
+        ],
+        [
+          "ARIMA",
+          2
+        ],
+        [
+          "SARIMA",
+          2
+        ],
+        [
+          "SGD",
+          2
+        ],
+        [
+          "CV",
+          2
+        ],
+        [
+          "MAE",
+          2
+        ],
+        [
+          "ROC",
+          2
+        ],
+        [
+          "SOTA",
+          2
+        ],
+        [
+          "TF",
+          2
+        ]
+      ],
+      "found_batches": [],
+      "chars_scanned": 34868
+    },
+    "DOC04": {
+      "top_acronyms": [
+        [
+          "WIP",
+          18
+        ],
+        [
+          "PR",
+          16
+        ],
+        [
+          "CI",
+          6
+        ],
+        [
+          "README",
+          5
+        ],
+        [
+          "BLUF",
+          5
+        ],
+        [
+          "AM",
+          5
+        ],
+        [
+          "SOP",
+          5
+        ],
+        [
+          "SLA",
+          4
+        ],
+        [
+          "PM",
+          4
+        ],
+        [
+          "MRE",
+          3
+        ],
+        [
+          "DND",
+          3
+        ],
+        [
+          "CV",
+          2
+        ],
+        [
+          "STAR",
+          2
+        ],
+        [
+          "SOT",
+          2
+        ],
+        [
+          "TTU",
+          2
+        ],
+        [
+          "DB",
+          2
+        ],
+        [
+          "METRIC",
+          1
+        ],
+        [
+          "MOOC",
+          1
+        ],
+        [
+          "IDE",
+          1
+        ],
+        [
+          "OODA",
+          1
+        ]
+      ],
+      "found_batches": [],
+      "chars_scanned": 73767
+    },
+    "DOC05": {
+      "top_acronyms": [
+        [
+          "IQ",
+          1
+        ]
+      ],
+      "found_batches": [],
+      "chars_scanned": 5157
+    },
+    "DOC06": {
+      "top_acronyms": [
+        [
+          "UIA",
+          5
+        ],
+        [
+          "UPA",
+          4
+        ]
+      ],
+      "found_batches": [],
+      "chars_scanned": 6561
+    }
+  },
+  "notes": "Fill the full forms for acronyms; copy what you want into taxonomy.json."
+}

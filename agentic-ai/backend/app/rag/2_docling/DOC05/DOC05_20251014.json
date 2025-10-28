@@ -1,0 +1,1706 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.7.0",
+  "name": "RelativityAi_function_Doc06",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8708471671173686795,
+    "filename": "RelativityAi_function_Doc06.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 804.7200439453126,
+            "r": 207.956,
+            "b": 787.9200439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Relativity AI Job - Function",
+      "text": "Relativity AI Job - Function",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 784.0320439453126,
+            "r": 82.39,
+            "b": 768.5760439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Purpose",
+      "text": "Purpose",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 765.0900439453126,
+            "r": 551.743,
+            "b": 721.1500439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            318
+          ]
+        }
+      ],
+      "orig": "Usually, we can break down employment categories for any role as junior, average, and senior. Our system mainly helps a person progress from Graduate → Level 01 → Entry level → Associate to become qualified for Junior level , which is the final stage before focusing on the skill gap between junior and average levels.",
+      "text": "Usually, we can break down employment categories for any role as junior, average, and senior. Our system mainly helps a person progress from Graduate → Level 01 → Entry level → Associate to become qualified for Junior level , which is the final stage before focusing on the skill gap between junior and average levels."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 718.1500439453125,
+            "r": 539.268,
+            "b": 689.9500439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "· With current market competition and a rising number of graduates seeking jobs each year, we help you develop the skills needed for employment in a smarter, structured manner.",
+      "text": "With current market competition and a rising number of graduates seeking jobs each year, we help you develop the skills needed for employment in a smarter, structured manner.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 686.8300439453126,
+            "r": 545.905,
+            "b": 658.6300439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "· Market signal: campus hiring is flat to slightly up for the Class of 2025, with growing skills-based hiring -which rewards applicants who can evidence concrete skills and artifacts.",
+      "text": "Market signal: campus hiring is flat to slightly up for the Class of 2025, with growing skills-based hiring -which rewards applicants who can evidence concrete skills and artifacts.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 623.9800439453126,
+            "r": 231.572,
+            "b": 607.1800439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Relativity AI Job - What It Does",
+      "text": "Relativity AI Job - What It Does",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 603.2920439453126,
+            "r": 85.658,
+            "b": 587.8360439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Principle",
+      "text": "Principle",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 584.3500439453126,
+            "r": 357.761,
+            "b": 571.7500439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Plan the problem → provide the personalized plan → execute the plan.",
+      "text": "Plan the problem → provide the personalized plan → execute the plan."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 568.7200439453126,
+            "r": 547.798,
+            "b": 540.5200439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "Every job field has an explicit skill set. Relativity AI designs a strategic learning plan before giving resources, using the learner's preferences to drive how skills are acquired.",
+      "text": "Every job field has an explicit skill set. Relativity AI designs a strategic learning plan before giving resources, using the learner's preferences to drive how skills are acquired."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 518.1820439453126,
+            "r": 234.422,
+            "b": 502.72604394531254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Personalization inputs (examples):",
+      "text": "Personalization inputs (examples):",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 499.24004394531255,
+            "r": 227.076,
+            "b": 486.6400439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "· How you perceive knowledge best.",
+      "text": "How you perceive knowledge best.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 483.5200439453125,
+            "r": 448.213,
+            "b": 470.92004394531256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "· The ways you get things right most consistently (e.g., code-along, projects, quizzes).",
+      "text": "The ways you get things right most consistently (e.g., code-along, projects, quizzes).",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 467.92004394531256,
+            "r": 275.082,
+            "b": 455.32004394531253,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "· How you like to study (pace, depth, medium).",
+      "text": "How you like to study (pace, depth, medium).",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 436.46204394531253,
+            "r": 149.944,
+            "b": 421.0060439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Value & Preparation",
+      "text": "Value & Preparation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 417.5200439453125,
+            "r": 559.15,
+            "b": 373.72004394531257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "With these insights, we craft the best strategy before execution -helping you learn the way you prefer and think outside the box . Rather than just dumping resources, Relativity AI specializes in smart execution tactics and proven study strategies. Every skill is tied to forms of intelligence.",
+      "text": "With these insights, we craft the best strategy before execution -helping you learn the way you prefer and think outside the box . Rather than just dumping resources, Relativity AI specializes in smart execution tactics and proven study strategies. Every skill is tied to forms of intelligence."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 354.8420439453125,
+            "r": 273.923,
+            "b": 339.38604394531257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Brain Development vs. Skills Development",
+      "text": "Brain Development vs. Skills Development",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 335.9000439453125,
+            "r": 551.079,
+            "b": 291.98004394531256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        }
+      ],
+      "orig": "Developing skills develops brain intelligence . The more we learn to develop skills, the more intelligence grows. Intelligence influences success in a chosen career; it varies by person and can be enhanced to a degree. It can be categorized and strongly relates to skill sets-i.e., skill level is proportional to intelligence .",
+      "text": "Developing skills develops brain intelligence . The more we learn to develop skills, the more intelligence grows. Intelligence influences success in a chosen career; it varies by person and can be enhanced to a degree. It can be categorized and strongly relates to skill sets-i.e., skill level is proportional to intelligence ."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 288.98004394531256,
+            "r": 529.225,
+            "b": 260.6600439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "For a given skill set, a population's intelligence distribution typically concentrates around lower, average, and higher levels.",
+      "text": "For a given skill set, a population's intelligence distribution typically concentrates around lower, average, and higher levels."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 257.6600439453125,
+            "r": 441.721,
+            "b": 245.0600439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "Diagram note: The first box represents intelligence concentration before using Relativity AI.",
+      "text": "Diagram note: The first box represents intelligence concentration before using Relativity AI."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 242.0600439453126,
+            "r": 520.9,
+            "b": 229.46004394531258,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "Diagram note: The subsequent boxes illustrate how our agentic intelligence system helps shift both skills +",
+      "text": "Diagram note: The subsequent boxes illustrate how our agentic intelligence system helps shift both skills +"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 226.34004394531257,
+            "r": 185.82,
+            "b": 213.74004394531255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "intelligence to the levels needed.",
+      "text": "intelligence to the levels needed."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 210.74004394531255,
+            "r": 289.107,
+            "b": 198.14004394531253,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Example: Backend Developer Intelligence Components",
+      "text": "Example: Backend Developer Intelligence Components",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 195.11004394531255,
+            "r": 263.177,
+            "b": 182.51004394531253,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "· Foundational problem-solving intelligence",
+      "text": "Foundational problem-solving intelligence",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 179.51004394531253,
+            "r": 192.246,
+            "b": 166.9100439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "· Core technical intelligence",
+      "text": "Core technical intelligence",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 163.7900439453125,
+            "r": 281.724,
+            "b": 151.19004394531248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "· Collaborative and communication intelligence",
+      "text": "Collaborative and communication intelligence",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 148.19004394531248,
+            "r": 495.037,
+            "b": 135.59004394531257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Therefore, two main strategies prepare you to become an industry-standard, impactful professional:",
+      "text": "Therefore, two main strategies prepare you to become an industry-standard, impactful professional:"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 132.59004394531257,
+            "r": 307.014,
+            "b": 119.99004394531255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "· Build intelligence through resources while learning",
+      "text": "Build intelligence through resources while learning",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 116.87004394531255,
+            "r": 552.23,
+            "b": 88.67404394531252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "· Provide workout routines and brain exercises to enhance the cognitive + intelligence capabilities needed for the role",
+      "text": "Provide workout routines and brain exercises to enhance the cognitive + intelligence capabilities needed for the role",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 69.81604394531257,
+            "r": 115.477,
+            "b": 54.360043945312555,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "General Goals",
+      "text": "General Goals",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 50.874043945312565,
+            "r": 137.988,
+            "b": 38.27404394531254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "1) Shifting Intelligence",
+      "text": "Shifting Intelligence",
+      "enumerated": true,
+      "marker": "1)"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.0,
+            "t": 805.0500439453125,
+            "r": 557.041,
+            "b": 761.1300439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            312
+          ]
+        }
+      ],
+      "orig": "The target is to shift the intelligence level for an identified skill set to a higher, achievable level. While it can't be fully transformed for everyone (depending on capability and dedication), after identifying insights + the problem and estimating an intelligence level, we guide you step-by-step to achieve:",
+      "text": "The target is to shift the intelligence level for an identified skill set to a higher, achievable level. While it can't be fully transformed for everyone (depending on capability and dedication), after identifying insights + the problem and estimating an intelligence level, we guide you step-by-step to achieve:"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 758.1100439453126,
+            "r": 552.065,
+            "b": 745.5100439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "· Strong cognitive and analytical abilities to challenge peers, think critically, and solve problems effectively.",
+      "text": "Strong cognitive and analytical abilities to challenge peers, think critically, and solve problems effectively.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 742.5100439453125,
+            "r": 558.29,
+            "b": 714.1900439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "· Clear career direction and skill-growth plan , with the ability to showcase strengths, stand out, and position yourself well in the market.",
+      "text": "Clear career direction and skill-growth plan , with the ability to showcase strengths, stand out, and position yourself well in the market.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 711.1900439453126,
+            "r": 542.914,
+            "b": 682.9900439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "· An effective, adaptive learning approach matched to your abilities-so you excel in studies and hit your goals.",
+      "text": "An effective, adaptive learning approach matched to your abilities-so you excel in studies and hit your goals.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.0,
+            "t": 679.9900439453126,
+            "r": 195.867,
+            "b": 667.3900439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "2) Helping to Think Outside the Box",
+      "text": "2) Helping to Think Outside the Box",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 664.2700439453125,
+            "r": 516.413,
+            "b": 636.0700439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "· Not only build skills but raise IQ-like capabilities , bringing a new idea to skill development. Current platforms mostly suggest resources and a roadmap (which can fade over time).",
+      "text": "Not only build skills but raise IQ-like capabilities , bringing a new idea to skill development. Current platforms mostly suggest resources and a roadmap (which can fade over time).",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 633.0700439453126,
+            "r": 546.676,
+            "b": 604.7500439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "· To perform well in any career, people must think and work intelligently . Simply learning required content only improves intelligence to a certain level and may not suit highly critical environments .",
+      "text": "To perform well in any career, people must think and work intelligently . Simply learning required content only improves intelligence to a certain level and may not suit highly critical environments .",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 601.7500439453125,
+            "r": 520.571,
+            "b": 573.5500439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "· We develop the brain structure you need to be a skillful, impactful individual in your chosen career. Learning alone boosts intelligence; our method enhances beyond what learning alone can do .",
+      "text": "We develop the brain structure you need to be a skillful, impactful individual in your chosen career. Learning alone boosts intelligence; our method enhances beyond what learning alone can do .",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.0,
+            "t": 570.4000439453125,
+            "r": 95.841,
+            "b": 557.8000439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "How It Works",
+      "text": "How It Works",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 554.8000439453125,
+            "r": 487.684,
+            "b": 526.6000439453126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "· Personalized learning can produce positive but context-dependent gains; impact varies by implementation quality -hence the plan-first approach with checkpoints.",
+      "text": "Personalized learning can produce positive but context-dependent gains; impact varies by implementation quality -hence the plan-first approach with checkpoints.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 523.4800439453126,
+            "r": 475.21,
+            "b": 510.88004394531254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "· Brain intelligence: shifting intelligence to a new level helps you stand out from the crowd.",
+      "text": "Brain intelligence: shifting intelligence to a new level helps you stand out from the crowd.",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 507.88004394531254,
+            "r": 508.748,
+            "b": 479.68004394531255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "· High-utility study techniques (e.g., spaced practice, retrieval practice, interleaving) consistently outperform passive review; the plan bakes these into weekly cadences .",
+      "text": "High-utility study techniques (e.g., spaced practice, retrieval practice, interleaving) consistently outperform passive review; the plan bakes these into weekly cadences .",
+      "enumerated": false,
+      "marker": "·"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.0,
+            "t": 476.56004394531254,
+            "r": 57.105,
+            "b": 463.9600439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Flow",
+      "text": "Flow",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 460.9600439453125,
+            "r": 446.678,
+            "b": 448.36004394531255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "1. Profile & constraints: capture learning preferences, schedule, and current baseline.",
+      "text": "Profile & constraints: capture learning preferences, schedule, and current baseline.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 445.36004394531255,
+            "r": 541.339,
+            "b": 417.16004394531257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "2. Milestone design: define week-by-week goals with evidence gates (quiz thresholds, code reviews, miniprojects).",
+      "text": "Milestone design: define week-by-week goals with evidence gates (quiz thresholds, code reviews, miniprojects).",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 414.04004394531256,
+            "r": 381.686,
+            "b": 401.44004394531254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "3. Delivery: assign right-sized drills, portfolio tasks, and feedback loops.",
+      "text": "Delivery: assign right-sized drills, portfolio tasks, and feedback loops.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 398.44004394531254,
+            "r": 417.325,
+            "b": 385.8400439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "4. Review & adapt: refine the plan using performance data and user feedback.",
+      "text": "Review & adapt: refine the plan using performance data and user feedback.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.0,
+            "t": 382.82004394531253,
+            "r": 74.016,
+            "b": 370.22004394531257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Success",
+      "text": "Success",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.0,
+            "t": 367.10004394531256,
+            "r": 540.1,
+            "b": 338.9000439453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "Success depends highly on the person. Effectiveness can be guaranteed only if they perform according to plan. Relativity AI provides the execution plan and guidance -but implementation is up to the user .",
+      "text": "Success depends highly on the person. Effectiveness can be guaranteed only if they perform according to plan. Relativity AI provides the execution plan and guidance -but implementation is up to the user ."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9200439453125
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9200439453125
+      },
+      "page_no": 2
+    }
+  }
+}
