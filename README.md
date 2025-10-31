@@ -128,7 +128,7 @@ agentic-ai/
    │  │  ├─ common/
    │  │  │  ├─ Header.jsx
    │  │  │  └─ SideBar.jsx
-   │  │  └─ surveys/{EmploymentSurvey.jsx,SkillsSurvey.jsx,InsightSurvey.jsx,InsightBatch.jsx,InsightQuestionCard.jsx}
+   │  │  └─ surveys/
    │  │     ├─ EmploymentSurvey.jsx
    │  │     ├─ InsightBatch.jsx
    │  │     ├─ InsightQuestionCard.jsx
@@ -324,12 +324,11 @@ This system embeds RAI controls **inside the business logic** (not just the UI):
 
 ## Contributing
 
-| Name                    | GitHub         | Role                 | Summary of Responsibilities                                                                                                                         |
-| ----------------------- | -------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A. V. Amarathunga       | @Ash123        | Project Leader       | Oversaw full system development, guided architecture and planning, resolved issues across all stages, and enhanced backend agentic + RAG pipelines. |
-| M. S. R. V. Amararathna | @RuviDev       | Backend Lead         | Led backend development of agentic AI pipeline, managed frontend–backend integration, and handled system-level debugging and risk mitigation.       |
-| S. A. R. U. Amarasinghe | @reshika1219   | Full‑Stack Developer | Built frontend for agentic AI system, developed RAG knowledge base (PDF → FAISS vectors), and contributed to documentation & media.                 |
-| A. A. Gunawardena       | @username      | Full‑Stack Developer | Implemented frontend features, supported RAG knowledge base creation (PDF → FAISS vectors), and produced documentation & demo videos.               |
-
+| Name | GitHub | Role | Summary of Responsibilities |
+| :--- | :--- | :--- | :--- |
+| A. V. Amarathunga | [@Ashan-Amarathunga](https://github.com/Ashan-Amarathunga) | Project Leader | Oversaw full system development, guided architecture and planning, resolved issues across all stages, and enhanced backend agentic + RAG pipelines. |
+| M. S. R. V. Amararathna | [@RuviDev](https://github.com/RuviDev) | Backend Lead | Led backend development of agentic AI pipeline, managed frontend–backend integration, and handled system-level debugging and risk mitigation. |
+| S. A. R. U. Amarasinghe | [@reshika1219](https://github.com/reshika1219) | Full‑Stack Developer | Built frontend for agentic AI system, developed RAG knowledge base (PDF → FAISS vectors), and contributed to documentation & media. |
+| A. A. Gunawardena | [@agunawardena02](https://github.com/agunawardena02) | Full‑Stack Developer | Implemented frontend features, supported RAG knowledge base creation (PDF → FAISS vectors), and produced documentation & demo videos. |
 ---
 
